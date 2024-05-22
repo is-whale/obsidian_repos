@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
       "basename": "docker图形化",
       "path": "CS/docker/docker图形化.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "docker",
       "path": "CS/docker/docker.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
     }
   ],
   "omittedPaths": [],

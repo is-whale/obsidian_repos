@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "20d7449405d7cff1",
+        "id": "54529065cb13b82c",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3fb10b966c5885",
+            "id": "26cc355baad426b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ],
@@ -146,9 +155,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b6e206645d25a752",
+  "active": "26cc355baad426b5",
   "lastOpenFiles": [
-    "未命名",
+    "Autonomous driving/planner",
     "Autonomous driving",
     "CS/docker/docker图形化.md",
     "X11.md",
