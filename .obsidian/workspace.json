@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/docker/docker desktop修复.md",
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22c0804875812efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/docker/docker desktop修复.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/docker/docker desktop修复.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/docker/docker desktop修复.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -183,11 +196,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ab2504aada3def28",
+  "active": "22c0804875812efc",
   "lastOpenFiles": [
-    "Pasted image 20240522165736.png",
-    "CS/docker/docker desktop修复.md",
     "readme.md",
+    "未命名.md",
+    "write/obsidian",
+    "CS/docker/docker desktop修复.md",
+    "未命名",
+    "write",
+    "images/Pasted image 20240522165956.png",
+    "images",
+    "Pasted image 20240522165736.png",
     "Autonomous driving/planner/path planner.md",
     "Welcome.md",
     "Autonomous driving/planner",
@@ -200,10 +219,8 @@
     "CS/ROS",
     "CS/docker/docker.md",
     "CS",
-    "CS/docker",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "未命名.canvas",
-    "CS/code"
+    "未命名.canvas"
   ]
 }
