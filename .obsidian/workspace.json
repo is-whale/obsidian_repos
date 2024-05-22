@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/docker/docker.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/docker/docker.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/docker/docker.md",
+                "file": "Welcome.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/docker/docker.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "c8aae21bcf8fb065",
   "lastOpenFiles": [
-    "Notion/ROS/Hunter2.0/Hunter2.0.md",
     "readme.md",
+    "CS/docker/docker.md",
+    "CS/docker/docker图形化.md",
+    "Notion/ROS/Hunter2.0/Hunter2.0.md",
     "Welcome.md",
     "Notion/笔记/1.md",
     "Autonomous driving/planner/path planner.md",
@@ -202,8 +204,6 @@
     "Notion/ROS/Hunter2.0/优化技术方案/工控机优化.md",
     "Notion/ROS/Hunter2.0/优化技术方案/代码发布优化/代码发布优化.md",
     "Notion/ROS/Hunter2.0/优化技术方案/技术方案.md",
-    "Notion/ROS/Hunter2.0/雷达调试/AT128调试异常解决方法/AT128调试异常解决方法.md",
-    "Notion/ROS/Hunter2.0/车体参数/机械参数/机械参数.md",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
