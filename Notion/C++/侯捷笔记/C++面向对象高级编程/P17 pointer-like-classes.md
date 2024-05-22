@@ -1,0 +1,1 @@
+class设计出来可以像两种模式，pointer或function,会比指针多一些功能
