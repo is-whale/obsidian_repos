@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "4d5401c9498468b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d7449405d7cff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc3fb10b966c5885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/docker/docker图形化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed82181ef08816ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b07fb3867b7791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e206645d25a752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51437daf895b567d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e463c6c93fe6f12c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e989ae96895aa65e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3425bf397f63fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0698de43ccf67aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff930fd4780b8aae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS/docker/docker图形化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fff3896222335f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS/docker/docker图形化.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5a5f0bab1bac875",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "85dcfdc0e0118e27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS/docker/docker图形化.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fc3fb10b966c5885",
+  "lastOpenFiles": [
+    "未命名.md",
+    "CS/docker/未命名.canvas",
+    "CS/docker/docker desktop修复.md",
+    "CS/docker/docker.md",
+    "Welcome.md",
+    "CS/docker/docker图形化.md",
+    "CS",
+    "CS/docker",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "未命名.canvas",
+    "CS/code"
+  ]
+}
