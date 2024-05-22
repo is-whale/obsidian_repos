@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/docker/docker图形化.md",
+                "file": "CS/docker/docker desktop修复.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/docker/docker图形化.md",
+                "file": "CS/docker/docker desktop修复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/docker/docker图形化.md",
+                "file": "CS/docker/docker desktop修复.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/docker/docker图形化.md"
+                "file": "CS/docker/docker desktop修复.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   },
   "active": "fc3fb10b966c5885",
   "lastOpenFiles": [
+    "CS/docker/docker.md",
+    "CS/docker/docker图形化.md",
     "未命名.md",
     "CS/docker/未命名.canvas",
     "CS/docker/docker desktop修复.md",
-    "CS/docker/docker.md",
     "Welcome.md",
-    "CS/docker/docker图形化.md",
     "CS",
     "CS/docker",
     "未命名 1.canvas",
