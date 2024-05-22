@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "docker desktop修复",
+      "path": "CS/docker/docker desktop修复.md"
+    },
+    {
       "basename": "readme",
       "path": "readme.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "X11",
       "path": "X11.md"
-    },
-    {
-      "basename": "docker desktop修复",
-      "path": "CS/docker/docker desktop修复.md"
     },
     {
       "basename": "docker",

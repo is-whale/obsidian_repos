@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "CS/docker/docker desktop修复.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "CS/docker/docker desktop修复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "CS/docker/docker desktop修复.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "CS/docker/docker desktop修复.md"
               }
             }
           }
@@ -185,8 +185,9 @@
   },
   "active": "ab2504aada3def28",
   "lastOpenFiles": [
-    "Autonomous driving/planner/path planner.md",
+    "Pasted image 20240522165736.png",
     "readme.md",
+    "Autonomous driving/planner/path planner.md",
     "Welcome.md",
     "Autonomous driving/planner",
     "Autonomous driving",
