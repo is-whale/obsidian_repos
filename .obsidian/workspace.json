@@ -50,17 +50,54 @@
             "id": "22c0804875812efc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "images/Pasted image 20240522165956.png"
+              }
+            }
+          },
+          {
+            "id": "aa9cc5175698104c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png"
+              }
+            }
+          },
+          {
+            "id": "43899e65f299ab1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/0fb4e6fb610949a481c40d8236c2bf5e.png"
+              }
+            }
+          },
+          {
+            "id": "3384f3cb4a6fa9c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/2c84f0c11bed445ebcbe13a061821fce.png"
+              }
+            }
+          },
+          {
+            "id": "d49f13cb5e63dc34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/3ad0986877ac4197acc3e4875de81b4e.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "images/3ad0986877ac4197acc3e4875de81b4e.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "images/3ad0986877ac4197acc3e4875de81b4e.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "images/3ad0986877ac4197acc3e4875de81b4e.png"
               }
             }
           }
@@ -196,29 +233,55 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "22c0804875812efc",
+  "active": "b6e206645d25a752",
   "lastOpenFiles": [
-    "readme.md",
-    "未命名.md",
-    "write/obsidian",
-    "CS/docker/docker desktop修复.md",
-    "未命名",
-    "write",
-    "images/Pasted image 20240522165956.png",
-    "images",
-    "Pasted image 20240522165736.png",
-    "Autonomous driving/planner/path planner.md",
-    "Welcome.md",
-    "Autonomous driving/planner",
-    "Autonomous driving",
-    "CS/docker/docker图形化.md",
-    "X11.md",
-    "CS/linux/X11",
-    "CS/linux",
+    "images/Untitled 2 13.png",
+    "images/Untitled 1 18.png",
+    "images/Untitled 42.png",
+    "images/Untitled 1 17.png",
+    "images/Untitled 41.png",
+    "images/Untitled 40.png",
+    "images/Untitled 39.png",
+    "images/Untitled 38.png",
+    "images/Untitled 1 16.png",
+    "images/Untitled 37.png",
+    "images/Untitled 2 12.png",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 14",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 13",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 11",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 10",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_142Ccolor_FFFFFF2Ct_702Cg_se2Cx_16",
+    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/单独启动底盘.md",
+    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/start.md",
+    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/启动自动驾驶.md",
+    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/启动建图.md",
+    "Notion/自动驾驶/源码学习/autoware.universe源码学习/install/20.04编译.md",
+    "Notion/自动驾驶/工作内容/技术思路/RT/http---blog.iotwrt.com-os-2019-03-21-realtime-.md",
+    "Notion/Task List/进度和任务规划/杂物/规划控制技术路线.md",
+    "Notion/Task List/进度和任务规划/杂物/8.1.md",
+    "Notion/Task List/进度和任务规划/杂物/热成像ORB.md",
+    "Notion/Task List/进度和任务规划/杂物/固态雷达.md",
+    "Notion/Task List/进度和任务规划/杂物/9.4汇报提纲.md",
+    "Notion/Task List/进度和任务规划/杂物/9月优化记录.md",
+    "Notion/Task List/进度和任务规划/项目结题/多点导航.md",
+    "Notion/ROS/学习记录/学习博客/ROS入门路线.md",
+    "Notion/ROS/学习记录/基础命令/信息查询.md",
+    "Notion/ROS/学习记录/基础命令/launch启动脚本-解释、编写.md",
+    "Notion/ROS/Hunter2.0/优化技术方案/工控机优化.md",
+    "Notion/ROS/Hunter2.0/优化技术方案/代码发布优化/代码发布优化.md",
+    "Notion/ROS/Hunter2.0/优化技术方案/技术方案.md",
+    "Notion/ROS/Hunter2.0/雷达调试/AT128调试异常解决方法/AT128调试异常解决方法.md",
+    "Notion/ROS/Hunter2.0/车体参数/机械参数/机械参数.md",
+    "Notion/ROS/Hunter2.0/车体参数/导航配置参数.md",
+    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/启动步骤.md",
+    "Notion/ROS/Hunter2.0/代码梳理/hunter框架.md",
+    "Notion/ROS/Hunter2.0/代码梳理/TF修复.md",
     "CS/docker/未命名.canvas",
-    "CS/ROS",
-    "CS/docker/docker.md",
-    "CS",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "未命名.canvas"
