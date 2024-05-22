@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "docker",
+      "path": "CS/docker/docker.md"
+    },
+    {
+      "basename": "Hunter2.0",
+      "path": "Notion/ROS/Hunter2.0/Hunter2.0.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "1",
+      "path": "Notion/笔记/1.md"
+    },
+    {
+      "basename": "path planner",
+      "path": "Autonomous driving/planner/path planner.md"
+    },
+    {
       "basename": "3ad0986877ac4197acc3e4875de81b4e",
       "path": "images/3ad0986877ac4197acc3e4875de81b4e.png"
     },
@@ -25,28 +49,12 @@
       "path": "write/obsidian/配置.md"
     },
     {
-      "basename": "readme",
-      "path": "readme.md"
-    },
-    {
       "basename": "docker desktop修复",
       "path": "CS/docker/docker desktop修复.md"
     },
     {
-      "basename": "path planner",
-      "path": "Autonomous driving/planner/path planner.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
-    },
-    {
       "basename": "docker图形化",
       "path": "CS/docker/docker图形化.md"
-    },
-    {
-      "basename": "docker",
-      "path": "CS/docker/docker.md"
     }
   ],
   "omittedPaths": [],
