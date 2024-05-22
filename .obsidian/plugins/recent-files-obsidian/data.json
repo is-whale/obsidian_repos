@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
       "basename": "path planner",
       "path": "Autonomous driving/planner/path planner.md"
     },

@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab2504aada3def28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md",
+                "file": "readme.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md"
+                "file": "readme.md"
               }
             }
           }
@@ -170,10 +183,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b2f66bf4ad2e1b52",
+  "active": "ab2504aada3def28",
   "lastOpenFiles": [
-    "Welcome.md",
     "Autonomous driving/planner/path planner.md",
+    "readme.md",
+    "Welcome.md",
     "Autonomous driving/planner",
     "Autonomous driving",
     "CS/docker/docker图形化.md",
