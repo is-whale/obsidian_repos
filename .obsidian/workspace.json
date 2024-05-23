@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 914.5
+    "width": 1136.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c9eb0ba3280613b0",
+  "active": "85dcfdc0e0118e27",
   "lastOpenFiles": [
     "Notion/嵌入式/Docker.md",
     "Notion/笔记/规控算法工程师破防瞬间.md",
