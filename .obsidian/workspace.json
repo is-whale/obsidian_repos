@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/C++/笔记/纯虚函数.md",
+                "file": "Notion/C++/笔记/隐式构造函数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/纯虚函数.md",
+                "file": "Notion/C++/笔记/隐式构造函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/纯虚函数.md",
+                "file": "Notion/C++/笔记/隐式构造函数.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/C++/笔记/纯虚函数.md"
+                "file": "Notion/C++/笔记/隐式构造函数.md"
               }
             }
           }
@@ -158,10 +158,12 @@
   },
   "active": "c9eb0ba3280613b0",
   "lastOpenFiles": [
+    "images/Pasted image 20240523143820.png",
+    "Notion/C++/笔记/纯虚函数.md",
+    "Notion/C++/笔记/隐式构造函数.md",
     "CS/ROS 1/code.md",
     "CS/ROS 1/ROS.md",
     "Notion/C++/笔记/成员初始化列表.md",
-    "Notion/C++/笔记/纯虚函数.md",
     "images/Pasted image 20240523112854.png",
     "images/Pasted image 20240523111852.png",
     "Notion/C++/笔记/虚函数.md",
@@ -192,8 +194,6 @@
     "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md",
     "Notion/TODO-List/TODO-List.md",
     "Notion/Task List/task.md",
-    "Notion/Task List/进度和任务规划/第二阶段.md",
-    "Notion/Task List/Effective CPP.md",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15",
