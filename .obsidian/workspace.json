@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/嵌入式/Docker.md",
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/嵌入式/Docker.md",
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/嵌入式/Docker.md",
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/嵌入式/Docker.md"
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md"
               }
             }
           }
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 914.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +158,7 @@
   },
   "active": "c9eb0ba3280613b0",
   "lastOpenFiles": [
+    "Notion/嵌入式/Docker.md",
     "Notion/笔记/规控算法工程师破防瞬间.md",
     "readme.md",
     "create a link.md",
@@ -190,7 +191,6 @@
     "Notion/tool/tool.md",
     "CS/ROS 1/建图.md",
     "CS/ROS 1/ROS-callback.md",
-    "CS/ROS 1/ROS.md",
     "images/3ad0986877ac4197acc3e4875de81b4e.png",
     "images/Untitled 2 13.png",
     "images/Untitled 1 18.png",
