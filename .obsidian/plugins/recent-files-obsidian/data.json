@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "create a link",
+      "path": "create a link.md"
+    },
+    {
       "basename": "3ad0986877ac4197acc3e4875de81b4e 2",
       "path": "images/3ad0986877ac4197acc3e4875de81b4e 2.png"
     },
@@ -109,16 +117,8 @@
       "path": "Notion/笔记/电影.md"
     },
     {
-      "basename": "create a link",
-      "path": "create a link.md"
-    },
-    {
       "basename": "Welcome",
       "path": "Welcome.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
     },
     {
       "basename": "docker",
