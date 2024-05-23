@@ -5,51 +5,11 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121021698
 ---
 # **【传感器sensor】机器人/无人驾驶常用传感器模型、选型与安装**
 
-![[images/original 8.png|original 8.png]]
-
-[盒子君~](https://blog.csdn.net/qq_35635374)
-
-![[images/newUpTime2 3.png|newUpTime2 3.png]]
-
-已于 2022-05-02 11:53:40 修改
-
-![[images/articleReadEyes2 8.png|articleReadEyes2 8.png]]
-
-阅读量3.7k
-
-收藏  
-  
-  
-18  
-
-![[images/tobarCollect2 8.png|tobarCollect2 8.png]]
-
-![[images/newHeart2023Black 8.png|newHeart2023Black 8.png]]
-
-点赞数  
-2  
-
 分类专栏：[==# 感知perception==](https://blog.csdn.net/qq_35635374/category_11464719.html)[==# 无人驾驶相关Autoware==](https://blog.csdn.net/qq_35635374/category_11523328.html)[==# 无人驾驶相关apollo==](https://blog.csdn.net/qq_35635374/category_11523332.html)文章标签：[==算法==](https://so.csdn.net/so/search/s.do?q=%E7%AE%97%E6%B3%95&t=all&o=vip&s=&l=&f=&viparticle=)[==人工智能==](https://so.csdn.net/so/search/s.do?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&t=all&o=vip&s=&l=&f=&viparticle=)
-
-版权
 
 [**无人驾驶相关Autoware  
   
 **](https://blog.csdn.net/qq_35635374/category_11523328.html)[**同时被 3 个专栏收录**](https://blog.csdn.net/qq_35635374/category_11523328.html)[](https://blog.csdn.net/qq_35635374/category_11523328.html)
-
-![[images/resize2Cm_fixed2Ch_2242Cw_224 7.|resize2Cm_fixed2Ch_2242Cw_224 7.]]
-
-![[images/newArrowDown1White 2.png|newArrowDown1White 2.png]]
-
-25 篇文章  
-38 订阅  
-  
-  
-**¥9.90**~~¥99.00~~
-
-==已订阅==超级会员免费看
-
-![[images/studyVipIcon 7.png|studyVipIcon 7.png]]
 
 [**感知perception**](https://blog.csdn.net/qq_35635374/category_11464719.html)
 
