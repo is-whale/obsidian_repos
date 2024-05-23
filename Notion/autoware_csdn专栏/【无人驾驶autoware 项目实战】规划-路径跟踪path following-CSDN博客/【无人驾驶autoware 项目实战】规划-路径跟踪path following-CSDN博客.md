@@ -7,18 +7,8 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121860283
 
 分类专栏：[==# 无人驾驶相关Autoware==](https://blog.csdn.net/qq_35635374/category_11523328.html)文章标签：[==自动驾驶==](https://so.csdn.net/so/search/s.do?q=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&t=all&o=vip&s=&l=&f=&viparticle=)[==人工智能==](https://so.csdn.net/so/search/s.do?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&t=all&o=vip&s=&l=&f=&viparticle=)[==机器学习==](https://so.csdn.net/so/search/s.do?q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&t=all&o=vip&s=&l=&f=&viparticle=)
 
-版权
 
-[**无人驾驶相关Autoware  
-  
-**](https://blog.csdn.net/qq_35635374/category_11523328.html)[**专栏收录该内容**](https://blog.csdn.net/qq_35635374/category_11523328.html)[](https://blog.csdn.net/qq_35635374/category_11523328.html)
-
-
-![[images/studyVipIcon 13.png|studyVipIcon 13.png]]
-
-## **系列文章目录**
-
-提示：这里可以添加系列文章的所有文章的目录，目录需要自己手动添加 TODO:写完再整理
+[**无人驾驶相关Autoware**](https://blog.csdn.net/qq_35635374/category_11523328.html)[**专栏收录该内容**](https://blog.csdn.net/qq_35635374/category_11523328.html)[](https://blog.csdn.net/qq_35635374/category_11523328.html)
 
 ### **文章目录**
 
@@ -49,16 +39,10 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121860283
   
 提示：以下是本篇文章正文内容
 
-![[images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 9.|watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 9.]]
-
 ## **一、功能**
 
 车辆跟踪运动规划motion planning输出的可执行轨迹final_waypoint  
   
-.  
-  
-.
-
 ## **二、输入**
 
 ### **【final waypoint】**

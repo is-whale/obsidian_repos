@@ -5,49 +5,12 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121860065
 ---
 # **【无人驾驶autoware 项目实战】规划-任务规划mission_planning**
 
-![[images/original 16.png|original 16.png]]
-
-[盒子君~](https://blog.csdn.net/qq_35635374)
-
-![[images/newCurrentTime2 12.png|newCurrentTime2 12.png]]
-
-于 2021-12-10 16:48:39 发布
-
-![[images/articleReadEyes2 16.png|articleReadEyes2 16.png]]
-
-阅读量1.2k
-
-收藏  
-  
-  
-10  
-
-![[images/tobarCollect2 16.png|tobarCollect2 16.png]]
-
-![[images/newHeart2023Black 16.png|newHeart2023Black 16.png]]
-
-点赞数  
-6  
 
 分类专栏：[==# 无人驾驶相关Autoware==](https://blog.csdn.net/qq_35635374/category_11523328.html)文章标签：[==自动驾驶==](https://so.csdn.net/so/search/s.do?q=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&t=all&o=vip&s=&l=&f=&viparticle=)[==人工智能==](https://so.csdn.net/so/search/s.do?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&t=all&o=vip&s=&l=&f=&viparticle=)[==机器学习==](https://so.csdn.net/so/search/s.do?q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&t=all&o=vip&s=&l=&f=&viparticle=)
 
 版权
 
-[**无人驾驶相关Autoware  
-  
-**](https://blog.csdn.net/qq_35635374/category_11523328.html)[**专栏收录该内容**](https://blog.csdn.net/qq_35635374/category_11523328.html)[](https://blog.csdn.net/qq_35635374/category_11523328.html)
-
-![[images/resize2Cm_fixed2Ch_2242Cw_224 15.|resize2Cm_fixed2Ch_2242Cw_224 15.]]
-
-25 篇文章  
-38 订阅  
-  
-  
-**¥9.90**~~¥99.00~~
-
-==已订阅==超级会员免费看
-
-![[images/studyVipIcon 15.png|studyVipIcon 15.png]]
+[**无人驾驶相关Autoware**](https://blog.csdn.net/qq_35635374/category_11523328.html)[**专栏收录该内容**](https://blog.csdn.net/qq_35635374/category_11523328.html)[](https://blog.csdn.net/qq_35635374/category_11523328.html)
 
 ## **系列文章目录**
 
