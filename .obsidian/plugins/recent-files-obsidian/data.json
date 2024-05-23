@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1",
+      "path": "Notion/笔记/1.md"
+    },
+    {
+      "basename": "电影",
+      "path": "Notion/笔记/电影.md"
+    },
+    {
+      "basename": "create a link",
+      "path": "create a link.md"
+    },
+    {
       "basename": "Welcome",
       "path": "Welcome.md"
     },
@@ -18,11 +30,7 @@
     },
     {
       "basename": "Hunter2.0",
-      "path": "Notion/ROS/Hunter2.0/Hunter2.0.md"
-    },
-    {
-      "basename": "1",
-      "path": "Notion/笔记/1.md"
+      "path": "CS/ROS 1/Hunter2.0/Hunter2.0.md"
     },
     {
       "basename": "path planner",

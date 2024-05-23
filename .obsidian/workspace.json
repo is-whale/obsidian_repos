@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b32faac9bffec7a",
+        "id": "9cbf6e3b88bb9573",
         "type": "tabs",
         "children": [
           {
-            "id": "c8aae21bcf8fb065",
+            "id": "48220004ba0cba80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,14 +147,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c8aae21bcf8fb065",
+  "active": "b6e206645d25a752",
   "lastOpenFiles": [
+    "Notion/日历/工程力学考试.md",
+    "Notion/日历/工程力学复习.md",
+    "Notion/日历/概率论考试.md",
+    "Notion/日历/毕设答辩.md",
+    "Notion/笔记/1.md",
+    "Notion/笔记/电影.md",
+    "Notion/笔记/提升.md",
+    "Notion/笔记/笔记.md",
+    "create a link.md",
+    "Welcome.md",
     "readme.md",
     "CS/docker/docker.md",
     "CS/docker/docker图形化.md",
-    "Notion/ROS/Hunter2.0/Hunter2.0.md",
-    "Welcome.md",
-    "Notion/笔记/1.md",
+    "CS/ROS 1/Hunter2.0/Hunter2.0.md",
     "Autonomous driving/planner/path planner.md",
     "images/3ad0986877ac4197acc3e4875de81b4e.png",
     "images/Untitled 2 13.png",
@@ -185,10 +184,10 @@
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 10",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_142Ccolor_FFFFFF2Ct_702Cg_se2Cx_16",
-    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/单独启动底盘.md",
-    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/start.md",
-    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/启动自动驾驶.md",
-    "Notion/ROS/Hunter2.0/代码梳理/启动步骤/启动建图.md",
+    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/单独启动底盘.md",
+    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/start.md",
+    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/启动自动驾驶.md",
+    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/启动建图.md",
     "Notion/自动驾驶/源码学习/autoware.universe源码学习/install/20.04编译.md",
     "Notion/自动驾驶/工作内容/技术思路/RT/http---blog.iotwrt.com-os-2019-03-21-realtime-.md",
     "Notion/Task List/进度和任务规划/杂物/规划控制技术路线.md",
@@ -196,14 +195,6 @@
     "Notion/Task List/进度和任务规划/杂物/热成像ORB.md",
     "Notion/Task List/进度和任务规划/杂物/固态雷达.md",
     "Notion/Task List/进度和任务规划/杂物/9.4汇报提纲.md",
-    "Notion/Task List/进度和任务规划/杂物/9月优化记录.md",
-    "Notion/Task List/进度和任务规划/项目结题/多点导航.md",
-    "Notion/ROS/学习记录/学习博客/ROS入门路线.md",
-    "Notion/ROS/学习记录/基础命令/信息查询.md",
-    "Notion/ROS/学习记录/基础命令/launch启动脚本-解释、编写.md",
-    "Notion/ROS/Hunter2.0/优化技术方案/工控机优化.md",
-    "Notion/ROS/Hunter2.0/优化技术方案/代码发布优化/代码发布优化.md",
-    "Notion/ROS/Hunter2.0/优化技术方案/技术方案.md",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
