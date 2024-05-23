@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cbf6e3b88bb9573",
+        "id": "0826a60dc4f1a828",
         "type": "tabs",
         "children": [
           {
-            "id": "48220004ba0cba80",
+            "id": "c9eb0ba3280613b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md",
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 634.5
   },
   "right": {
     "id": "f3425bf397f63fc5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md",
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md",
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md"
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客.md"
               }
             }
           }
@@ -156,8 +156,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "48220004ba0cba80",
+  "active": "c9eb0ba3280613b0",
   "lastOpenFiles": [
+    "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】传感器数据获取、数据采集方案_autoware数据集-CSDN博客/【无人驾驶autoware 项目实战】传感器数据获取、数据采集方案_autoware数据集-CSDN博客.md",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4..md",
+    "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md",
     "Notion/TODO-List/TODO-List.md",
     "Notion/Task List/task.md",
     "Notion/Task List/进度和任务规划/第二阶段.md",
@@ -181,9 +184,6 @@
     "Notion/日历/毕设答辩.md",
     "Notion/笔记/电影.md",
     "Notion/笔记/提升.md",
-    "Notion/笔记/笔记.md",
-    "create a link.md",
-    "Welcome.md",
     "images/3ad0986877ac4197acc3e4875de81b4e.png",
     "images/Untitled 2 13.png",
     "images/Untitled 1 18.png",
