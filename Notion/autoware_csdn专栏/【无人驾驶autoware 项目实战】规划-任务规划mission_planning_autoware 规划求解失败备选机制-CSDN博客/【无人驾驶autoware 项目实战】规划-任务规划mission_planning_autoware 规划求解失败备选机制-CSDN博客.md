@@ -47,62 +47,37 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121860065
 本文先对**【无人驾驶autoware 项目实战】规划-任务规划mission_planning**做个简单的介绍，具体内容后续再更，其他模块可以参考去我其他文章  
   
 提示：以下是本篇文章正文内容
-
-![[images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12.|watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12.]]
-
 ## **一、功能**
 
 在全局中，指定一个起点，一个终点，通过十字路口全局规划得到一条全局静态路径，一旦分配了全局路径，本地马上启动运动规划器  
   
 autoware的**规划任务计划是半自主的**，在更复杂的场景中，例如停车和恢复工作错误，司机需要监督路径  
   
-.  
-  
-.
-
 ## **二、输入**
 
 ### **【ADAS 矢量地图】**
 
 根据高精度点云地图，图像地图，人工绘制的语义地图（一般由公司专门去做的，相当于给定了.csv文件的航线lane、交通灯等等更多的静态地图信息）  
-  
-.
 
 ## **三、输出**
 
 ### **【base waypoints】**
 
 全局航线，全局航线本来就是包含在了ADAS 矢量地图的csv文件中的  
-  
-.  
-  
-.
 
 ## **四、算法流程实现**
 
 ### **【route planner】**
 
 路线规划，寻找到达目标地点的全局路径并发布的一系列十字路口结果，路径由道路route网中的一系列十字路口组成，大体决定走那一条路线route，每条路线拥有多条车道线lane  
-  
-.  
-  
-.
 
 ### **【lane planner】**
 
 车道规划，根据route_planner发布的一系列十字路口结果，确定全局路径由哪些lane组成，并发布到达目的地的一系列waypoint数组，lane是由一系列waypoint点组成。  
-  
-.  
-  
-.
 
 ### **【waypoint_planner】**
 
 用于产生到达目的地的一系列waypont点，【防盗标记–盒子君hzj】它与lane_planner的不同之处在于它是发布单一的到达目的地的waypoint路径,而lane_planner是发布到达目的地的一系列waypoint数组  
-  
-.  
-  
-.
 
 ### **【waypoint_maker】**
 
@@ -115,5 +90,3 @@ autoware的**规划任务计划是半自主的**，在更复杂的场景中，�
 **文章知识点与官方知识档案匹配，可进一步学习相关知识**
 
 [OpenCV技能树](https://edu.csdn.net/skill/opencv/?utm_source=csdn_ai_skill_tree_blog)[_首页_](https://edu.csdn.net/skill/opencv/?utm_source=csdn_ai_skill_tree_blog)[_概览_](https://edu.csdn.net/skill/opencv/?utm_source=csdn_ai_skill_tree_blog)_23318_ _人正在系统学习中_
-
- _显示推荐内容_
