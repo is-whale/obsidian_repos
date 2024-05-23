@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "task",
+      "path": "Notion/Task List/task.md"
+    },
+    {
+      "basename": "Effective CPP",
+      "path": "Notion/Task List/Effective CPP.md"
+    },
+    {
+      "basename": "git SVN",
+      "path": "Notion/tool/git SVN/git SVN.md"
+    },
+    {
+      "basename": "code",
+      "path": "CS/ROS 1/code.md"
+    },
+    {
+      "basename": "建图",
+      "path": "CS/ROS 1/建图.md"
+    },
+    {
+      "basename": "ROS-callback",
+      "path": "CS/ROS 1/ROS-callback.md"
+    },
+    {
+      "basename": "ROS",
+      "path": "CS/ROS 1/ROS.md"
+    },
+    {
+      "basename": "1",
+      "path": "Notion/笔记/1.md"
+    },
+    {
       "basename": "C Primer Plus",
       "path": "Notion/Read Plans/C Primer Plus.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "八月2日",
       "path": "Notion/TODO-List/捌/八月2日.md"
-    },
-    {
-      "basename": "1",
-      "path": "Notion/笔记/1.md"
     },
     {
       "basename": "电影",

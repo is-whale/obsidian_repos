@@ -11,8 +11,13 @@
             "id": "48220004ba0cba80",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Task List/task.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion/Task List/task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion/Task List/task.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion/Task List/task.md"
+              }
             }
           }
         ],
@@ -147,8 +156,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "48220004ba0cba80",
+  "active": "b6e206645d25a752",
   "lastOpenFiles": [
+    "Notion/Task List/进度和任务规划/第二阶段.md",
+    "Notion/Task List/task.md",
+    "Notion/Task List/Effective CPP.md",
+    "Notion/Task List/docker learn and use.md",
+    "Notion/tool/git SVN/git SVN.md",
+    "Notion/code plan/Untitled.md",
+    "CS/ROS 1/code.md",
+    "Notion/tool/高效code/高效code.md",
+    "Notion/tool/tool.md",
+    "CS/ROS 1/建图.md",
+    "CS/ROS 1/ROS-callback.md",
+    "CS/ROS 1/ROS.md",
+    "Notion/笔记/1.md",
     "Notion/Read Plans/C Primer Plus.md",
     "Notion/Read Plans/概率机器人.md",
     "Notion/TODO-List/捌/八月2日.md",
@@ -156,17 +178,12 @@
     "Notion/日历/工程力学复习.md",
     "Notion/日历/概率论考试.md",
     "Notion/日历/毕设答辩.md",
-    "Notion/笔记/1.md",
     "Notion/笔记/电影.md",
     "Notion/笔记/提升.md",
     "Notion/笔记/笔记.md",
     "create a link.md",
     "Welcome.md",
     "readme.md",
-    "CS/docker/docker.md",
-    "CS/docker/docker图形化.md",
-    "CS/ROS 1/Hunter2.0/Hunter2.0.md",
-    "Autonomous driving/planner/path planner.md",
     "images/3ad0986877ac4197acc3e4875de81b4e.png",
     "images/Untitled 2 13.png",
     "images/Untitled 1 18.png",
@@ -187,14 +204,6 @@
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 10",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_142Ccolor_FFFFFF2Ct_702Cg_se2Cx_16",
-    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/单独启动底盘.md",
-    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/start.md",
-    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/启动自动驾驶.md",
-    "CS/ROS 1/Hunter2.0/代码梳理/启动步骤/启动建图.md",
-    "Notion/自动驾驶/源码学习/autoware.universe源码学习/install/20.04编译.md",
-    "Notion/自动驾驶/工作内容/技术思路/RT/http---blog.iotwrt.com-os-2019-03-21-realtime-.md",
-    "Notion/Task List/进度和任务规划/杂物/规划控制技术路线.md",
-    "Notion/Task List/进度和任务规划/杂物/8.1.md",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
