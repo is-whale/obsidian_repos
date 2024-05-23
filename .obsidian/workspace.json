@@ -11,7 +11,7 @@
             "id": "48220004ba0cba80",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -147,8 +147,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6e206645d25a752",
+  "active": "48220004ba0cba80",
   "lastOpenFiles": [
+    "Notion/Read Plans/C Primer Plus.md",
+    "Notion/Read Plans/概率机器人.md",
+    "Notion/TODO-List/捌/八月2日.md",
     "Notion/日历/工程力学考试.md",
     "Notion/日历/工程力学复习.md",
     "Notion/日历/概率论考试.md",
@@ -192,9 +195,6 @@
     "Notion/自动驾驶/工作内容/技术思路/RT/http---blog.iotwrt.com-os-2019-03-21-realtime-.md",
     "Notion/Task List/进度和任务规划/杂物/规划控制技术路线.md",
     "Notion/Task List/进度和任务规划/杂物/8.1.md",
-    "Notion/Task List/进度和任务规划/杂物/热成像ORB.md",
-    "Notion/Task List/进度和任务规划/杂物/固态雷达.md",
-    "Notion/Task List/进度和任务规划/杂物/9.4汇报提纲.md",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
