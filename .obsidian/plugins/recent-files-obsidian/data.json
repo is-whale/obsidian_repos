@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "纯虚函数",
-      "path": "Notion/C++/笔记/纯虚函数/纯虚函数.md"
+      "basename": "成员初始化列表",
+      "path": "Notion/C++/笔记/成员初始化列表.md"
     },
     {
       "basename": "虚函数",
@@ -11,6 +11,10 @@
     {
       "basename": "构造函数与析构函数",
       "path": "Notion/C++/笔记/构造函数与析构函数.md"
+    },
+    {
+      "basename": "纯虚函数",
+      "path": "Notion/C++/笔记/纯虚函数/纯虚函数.md"
     },
     {
       "basename": "规控算法工程师破防瞬间",
