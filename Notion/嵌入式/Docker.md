@@ -8,7 +8,6 @@ OPTIONS
 
 docker run -it IMAGE ID
 
-  
 
 docker ps 查看当前正在运行的所有容器（ps为linux命令，查看当前进程）  
 OPTIONS  
