@@ -1,6 +1,4 @@
-### **Jacob Chen**jacob-chen@iotwrt.com[**home**](http://blog.iotwrt.com/)[**Home**](http://blog.iotwrt.com/)[**description**](http://blog.iotwrt.com/projects)[**Projects**](http://blog.iotwrt.com/projects)[**sort**](http://blog.iotwrt.com/categories)[**Categories**](http://blog.iotwrt.com/categories)[**person**](http://blog.iotwrt.com/about)[**About**](http://blog.iotwrt.com/about)[**email**](http://blog.iotwrt.com/contact)[**Contact**](http://blog.iotwrt.com/contact)_**folder**_**Embedded and Linux**_**folder**_**Linux Kernel**_**folder**_**Multimedia/Graphics/Camera**_**folder**_**Note**_**folder**_**Autonomous Drive System**
-
-[![](http://blog.iotwrt.com/public/logo.png)](http://blog.iotwrt.com/public/logo.png)
+### **Jacob Chen**jacob-chen@iotwrt.com[**home**](http://blog.iotwrt.com/)[**Home**](http://blog.iotwrt.com/)[**description**](http://blog.iotwrt.com/projects)[**Projects**](http://blog.iotwrt.com/projects)[**sort**](http://blog.iotwrt.com/categories)[**Categories**](http://blog.iotwrt.com/categories)[**person**](http://blog.iotwrt.com/about)[**About**](http://blog.iotwrt.com/about)[**email**](http://blog.iotwrt.com/contact)[**Contact**](http://blog.iotwrt.com/contact)_**folder**_**Embedded and Linux**_**folder**_**Linux Kernel**_**folder**_**Multimedia/Graphics/Camera**_**folder**_**Note**_**folder**_**Autonomous Drive System*
 
 **ROS编程-ROS程序编写的一些Tips**  
 •  
