@@ -5,6 +5,14 @@
       "path": "Notion/C++/笔记/纯虚函数/纯虚函数.md"
     },
     {
+      "basename": "虚函数",
+      "path": "Notion/C++/笔记/虚函数.md"
+    },
+    {
+      "basename": "构造函数与析构函数",
+      "path": "Notion/C++/笔记/构造函数与析构函数.md"
+    },
+    {
       "basename": "规控算法工程师破防瞬间",
       "path": "Notion/笔记/规控算法工程师破防瞬间.md"
     },
