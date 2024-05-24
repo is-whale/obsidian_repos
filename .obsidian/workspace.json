@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/脚本/循迹/循迹.md",
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/脚本/循迹/循迹.md",
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/脚本/循迹/循迹.md",
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/脚本/循迹/循迹.md"
+                "file": "Notion/笔记/规控算法工程师破防瞬间.md"
               }
             }
           }
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 942.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +156,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c9eb0ba3280613b0",
+  "active": "85dcfdc0e0118e27",
   "lastOpenFiles": [
+    "Notion/脚本/循迹/循迹.md",
     "Notion/笔记/规控算法工程师破防瞬间.md",
     "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md",
     "Notion/脚本/脚本.md",
@@ -188,7 +189,6 @@
     "images/Pasted image 20240523110931.png",
     "Notion/笔记/电影.md",
     "Notion/嵌入式/Docker.md",
-    "readme.md",
     "images/3ad0986877ac4197acc3e4875de81b4e 2.png",
     "images/2c84f0c11bed445ebcbe13a061821fce 2.png",
     "images/2c84f0c11bed445ebcbe13a061821fce.png",
