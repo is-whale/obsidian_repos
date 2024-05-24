@@ -11,8 +11,13 @@
             "id": "c9eb0ba3280613b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 381.5
   },
   "right": {
     "id": "f3425bf397f63fc5",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md"
+              }
             }
           }
         ],
