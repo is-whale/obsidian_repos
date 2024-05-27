@@ -11,13 +11,8 @@
             "id": "66a115c0a293253a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notion/C++/笔记/智能指针.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,9 +149,9 @@
   },
   "active": "66a115c0a293253a",
   "lastOpenFiles": [
+    "Notion/C++/笔记/智能指针.md",
     "images/Pasted image 20240527113158.png",
     "images/Pasted image 20240527105433.png.md",
-    "Notion/C++/笔记/智能指针.md",
     "images/Pasted image 20240527105433.png",
     "Notion/C++/笔记/关键字/explicit.md",
     "Notion/C++/笔记/对象生存期.md",
@@ -194,7 +185,6 @@
     "images/Pasted image 20240523143820.png",
     "images/Pasted image 20240523112854.png",
     "images/Pasted image 20240523111852.png",
-    "images/Pasted image 20240523111723.png",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15",
