@@ -5,6 +5,26 @@
       "path": "Notion/C++/笔记/智能指针.md"
     },
     {
+      "basename": "控制数据算法",
+      "path": "Notion/C++/日常经验/控制数据算法.md"
+    },
+    {
+      "basename": "模版函数",
+      "path": "Notion/C++/日常经验/模版函数.md"
+    },
+    {
+      "basename": "zhihu",
+      "path": "Notion/C++/日常经验/zhihu.md"
+    },
+    {
+      "basename": "P16 non-explicit-one-argument ctor",
+      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/P16 non-explicit-one-argument ctor/P16 non-explicit-one-argument ctor.md"
+    },
+    {
+      "basename": "C++面向对象高级编程",
+      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/C++面向对象高级编程.md"
+    },
+    {
       "basename": "对象生存期",
       "path": "Notion/C++/笔记/对象生存期.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "this关键字",
       "path": "Notion/C++/笔记/this关键字.md"
-    },
-    {
-      "basename": "控制数据算法",
-      "path": "Notion/C++/日常经验/控制数据算法.md"
     },
     {
       "basename": "循迹",
@@ -173,32 +189,8 @@
       "path": "Notion/TODO-List/捌/八月2日.md"
     },
     {
-      "basename": "Welcome",
-      "path": "Welcome.md"
-    },
-    {
       "basename": "docker",
       "path": "CS/docker/docker.md"
-    },
-    {
-      "basename": "docker图形化",
-      "path": "CS/docker/docker图形化.md"
-    },
-    {
-      "basename": "Hunter2.0",
-      "path": "CS/ROS 1/Hunter2.0/Hunter2.0.md"
-    },
-    {
-      "basename": "path planner",
-      "path": "Autonomous driving/planner/path planner.md"
-    },
-    {
-      "basename": "3ad0986877ac4197acc3e4875de81b4e",
-      "path": "images/3ad0986877ac4197acc3e4875de81b4e.png"
-    },
-    {
-      "basename": "Pasted image 20240522165956",
-      "path": "images/Pasted image 20240522165956.png"
     }
   ],
   "omittedPaths": [],
