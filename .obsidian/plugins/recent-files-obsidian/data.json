@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "智能指针",
+      "path": "Notion/C++/笔记/智能指针.md"
+    },
+    {
       "basename": "对象生存期",
       "path": "Notion/C++/笔记/对象生存期.md"
+    },
+    {
+      "basename": "成员初始化列表",
+      "path": "Notion/C++/笔记/成员初始化列表.md"
+    },
+    {
+      "basename": "隐式构造函数",
+      "path": "Notion/C++/笔记/隐式构造函数.md"
     },
     {
       "basename": "this关键字",
@@ -41,10 +53,6 @@
       "path": "Notion/Read Plans/C++ Primer.md"
     },
     {
-      "basename": "隐式构造函数",
-      "path": "Notion/C++/笔记/隐式构造函数.md"
-    },
-    {
       "basename": "纯虚函数",
       "path": "Notion/C++/笔记/纯虚函数.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "ROS",
       "path": "CS/ROS 1/ROS.md"
-    },
-    {
-      "basename": "成员初始化列表",
-      "path": "Notion/C++/笔记/成员初始化列表.md"
     },
     {
       "basename": "虚函数",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240522165956",
       "path": "images/Pasted image 20240522165956.png"
-    },
-    {
-      "basename": "配置",
-      "path": "write/obsidian/配置.md"
     }
   ],
   "omittedPaths": [],

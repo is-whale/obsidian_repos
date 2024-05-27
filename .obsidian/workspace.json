@@ -11,13 +11,8 @@
             "id": "fc5a5af3c9367280",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/C++/笔记/对象生存期.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/对象生存期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/对象生存期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notion/C++/笔记/对象生存期.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,10 +149,13 @@
   },
   "active": "fc5a5af3c9367280",
   "lastOpenFiles": [
+    "Notion/C++/笔记/智能指针.md",
+    "Notion/C++/笔记/对象生存期.md",
+    "Notion/C++/笔记/成员初始化列表.md",
+    "Notion/C++/笔记/隐式构造函数.md",
     "images/Pasted image 20240527102644.png",
     "images/Pasted image 20240527102157.png",
     "Notion/C++/笔记/this关键字.md",
-    "Notion/C++/笔记/对象生存期.md",
     "images/Pasted image 20240527100029.png",
     "Notion/C++/日常经验/控制数据算法.md",
     "Notion/脚本/循迹/循迹.md",
@@ -180,12 +174,10 @@
     "Notion/Read Plans/Old English.md",
     "Notion/Read Plans/C++ Primer.md",
     "Notion/Deeplearning/Deeplearning.md",
-    "Notion/C++/笔记/隐式构造函数.md",
     "images/Pasted image 20240523143820.png",
     "Notion/C++/笔记/纯虚函数.md",
     "CS/ROS 1/code.md",
     "CS/ROS 1/ROS.md",
-    "Notion/C++/笔记/成员初始化列表.md",
     "images/Pasted image 20240523112854.png",
     "images/Pasted image 20240523111852.png",
     "Notion/C++/笔记/虚函数.md",
@@ -193,7 +185,6 @@
     "images/Pasted image 20240523110931.png",
     "images/3ad0986877ac4197acc3e4875de81b4e 2.png",
     "images/2c84f0c11bed445ebcbe13a061821fce 2.png",
-    "images/2c84f0c11bed445ebcbe13a061821fce.png",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15",
