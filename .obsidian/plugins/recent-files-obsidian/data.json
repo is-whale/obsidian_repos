@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "对象生存期",
+      "path": "Notion/C++/笔记/对象生存期.md"
+    },
+    {
       "basename": "this关键字",
       "path": "Notion/C++/笔记/this关键字.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "配置",
       "path": "write/obsidian/配置.md"
-    },
-    {
-      "basename": "docker desktop修复",
-      "path": "CS/docker/docker desktop修复.md"
     }
   ],
   "omittedPaths": [],
