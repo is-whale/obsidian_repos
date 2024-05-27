@@ -1,100 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:CS/docker  ",
-      "color": {
-        "a": 1,
-        "rgb": 459746
-      }
-    },
-    {
-      "query": "path:Notion/C++  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"Autonomous driving\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:Notion/日历  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:Notion/autoware_csdn专栏  ",
-      "color": {
-        "a": 1,
-        "rgb": 1171241
-      }
-    },
-    {
-      "query": "path:\"Notion/Task List\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:Notion/会议记录  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:\"Notion/code plan\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:Notion/TODO-List/",
-      "color": {
-        "a": 1,
-        "rgb": 725722
-      }
-    },
-    {
-      "query": "path:Notion/自动驾驶/技术学习  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:Notion/自动驾驶  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.37604166666667,
-  "lineSizeMultiplier": 1.2484375,
-  "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 356,
-  "scale": 0.3628873693012218,
+  "linkDistance": 250,
+  "scale": 0.25883865621817015,
   "close": true
 }

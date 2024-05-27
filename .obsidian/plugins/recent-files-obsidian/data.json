@@ -5,6 +5,10 @@
       "path": "Notion/C++/笔记/智能指针.md"
     },
     {
+      "basename": "对象生存期",
+      "path": "Notion/C++/笔记/对象生存期.md"
+    },
+    {
       "basename": "控制数据算法",
       "path": "Notion/C++/日常经验/控制数据算法.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "C++面向对象高级编程",
       "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/C++面向对象高级编程.md"
-    },
-    {
-      "basename": "对象生存期",
-      "path": "Notion/C++/笔记/对象生存期.md"
     },
     {
       "basename": "成员初始化列表",
