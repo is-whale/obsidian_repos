@@ -5,6 +5,10 @@
       "path": "Notion/C++/笔记/智能指针.md"
     },
     {
+      "basename": "explicit",
+      "path": "Notion/C++/笔记/关键字/explicit.md"
+    },
+    {
       "basename": "对象生存期",
       "path": "Notion/C++/笔记/对象生存期.md"
     },
@@ -38,7 +42,7 @@
     },
     {
       "basename": "this关键字",
-      "path": "Notion/C++/笔记/this关键字.md"
+      "path": "Notion/C++/笔记/关键字/this关键字.md"
     },
     {
       "basename": "循迹",
