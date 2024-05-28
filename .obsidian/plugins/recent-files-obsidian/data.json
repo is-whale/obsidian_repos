@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
       "basename": "template",
       "path": "write/template.md"
     },
@@ -107,14 +111,6 @@
     {
       "basename": "Docker",
       "path": "Notion/嵌入式/Docker.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
-    },
-    {
-      "basename": "create a link",
-      "path": "create a link.md"
     },
     {
       "basename": "3ad0986877ac4197acc3e4875de81b4e 2",

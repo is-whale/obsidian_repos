@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9bed228821b2f807",
+        "id": "5bd9028990a158ce",
         "type": "tabs",
         "children": [
           {
-            "id": "66a115c0a293253a",
+            "id": "efb4953f85b89e15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "write/template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9db7c4d3df71d13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "write/template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "write/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "write/template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "write/template.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,8 +147,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6e206645d25a752",
+  "active": "efb4953f85b89e15",
   "lastOpenFiles": [
+    "readme.md",
+    "create a link.md",
     "write/template.md",
     "Notion/C++/笔记/智能指针.md",
     "未命名.canvas",
@@ -205,8 +184,6 @@
     "Notion/C++/笔记/关键字/this关键字.md",
     "images/Pasted image 20240527100029.png",
     "Notion/脚本/循迹/循迹.md",
-    "Notion/笔记/规控算法工程师破防瞬间.md",
-    "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md",
     "images/Pasted image 20240523143820.png",
     "images/Pasted image 20240523112854.png",
     "images/Pasted image 20240523111852.png",
