@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template",
+      "path": "write/template.md"
+    },
+    {
       "basename": "智能指针",
       "path": "Notion/C++/笔记/智能指针.md"
     },

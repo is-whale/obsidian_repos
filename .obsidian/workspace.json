@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
+                "file": "write/template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9db7c4d3df71d13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "write/template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
+                "file": "write/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
+                "file": "write/template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md"
+                "file": "write/template.md"
               }
             }
           }
@@ -156,10 +170,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "66a115c0a293253a",
+  "active": "b6e206645d25a752",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "write/template.md",
     "Notion/C++/笔记/智能指针.md",
+    "未命名.canvas",
     "images/Pasted image 20240527113158.png",
     "images/Pasted image 20240527105433.png.md",
     "images/Pasted image 20240527105433.png",
