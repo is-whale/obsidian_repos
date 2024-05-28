@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
+                "file": "Notion/C++/笔记/箭头操作符.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
+                "file": "Notion/C++/笔记/箭头操作符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md",
+                "file": "Notion/C++/笔记/箭头操作符.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/C++/笔记/智能指针.md"
+                "file": "Notion/C++/笔记/箭头操作符.md"
               }
             }
           }
@@ -158,10 +158,12 @@
   },
   "active": "efb4953f85b89e15",
   "lastOpenFiles": [
+    "images/Pasted image 20240528100734.png",
+    "Notion/C++/笔记/智能指针.md",
+    "Notion/C++/笔记/箭头操作符.md",
     "readme.md",
     "create a link.md",
     "write/template.md",
-    "Notion/C++/笔记/智能指针.md",
     "未命名.canvas",
     "images/Pasted image 20240527113158.png",
     "images/Pasted image 20240527105433.png.md",
@@ -190,9 +192,7 @@
     "Notion/C++/笔记/隐式构造函数.md",
     "images/Pasted image 20240527102644.png",
     "images/Pasted image 20240527102157.png",
-    "Notion/C++/笔记/关键字/this关键字.md",
     "images/Pasted image 20240527100029.png",
-    "Notion/脚本/循迹/循迹.md",
     "images/Pasted image 20240523143820.png",
     "images/Pasted image 20240523112854.png",
     "images/Pasted image 20240523111852.png",
