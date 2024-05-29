@@ -5,8 +5,8 @@ Summary: 系统状态和指令信息通信
 Project:
   - "[[service]]"
 Sub-tasks:
-  - "[[MQTT pub]]"
-  - "[[MQTT sub]]"
+  - "[[Notion/自动驾驶/工作内容/项目目录/MQTT pub]]"
+  - "[[Notion/自动驾驶/工作内容/项目目录/MQTT sub]]"
 Priority: High
 ---
 ## Description

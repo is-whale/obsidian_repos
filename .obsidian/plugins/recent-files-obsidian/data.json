@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "planner",
+      "path": "Notion/自动驾驶/planner.md"
+    },
+    {
+      "basename": "技术规划",
+      "path": "Notion/自动驾驶/工作内容/项目目录/技术规划.md"
+    },
+    {
+      "basename": "仿真环境",
+      "path": "Notion/自动驾驶/行业现状/仿真环境.md"
+    },
+    {
+      "basename": "课程",
+      "path": "Notion/自动驾驶/技术学习/系列教程/课程.md"
+    },
+    {
+      "basename": "系列教程",
+      "path": "Notion/自动驾驶/技术学习/系列教程/系列教程.md"
+    },
+    {
+      "basename": "自动驾驶概述",
+      "path": "Notion/自动驾驶/技术学习/系列教程/自动驾驶概述.md"
+    },
+    {
       "basename": "智能指针",
       "path": "Notion/C++/笔记/智能指针.md"
     },
     {
+      "basename": "隐式构造函数",
+      "path": "Notion/C++/笔记/隐式构造函数.md"
+    },
+    {
+      "basename": "虚函数",
+      "path": "Notion/C++/笔记/虚函数.md"
+    },
+    {
+      "basename": "构造函数与析构函数",
+      "path": "Notion/C++/笔记/构造函数与析构函数.md"
+    },
+    {
       "basename": "箭头操作符",
       "path": "Notion/C++/笔记/箭头操作符.md"
+    },
+    {
+      "basename": "对象生存期",
+      "path": "Notion/C++/笔记/对象生存期.md"
+    },
+    {
+      "basename": "纯虚函数",
+      "path": "Notion/C++/笔记/纯虚函数.md"
     },
     {
       "basename": "readme",
@@ -23,10 +67,6 @@
     {
       "basename": "explicit",
       "path": "Notion/C++/笔记/关键字/explicit.md"
-    },
-    {
-      "basename": "对象生存期",
-      "path": "Notion/C++/笔记/对象生存期.md"
     },
     {
       "basename": "控制数据算法",
@@ -51,10 +91,6 @@
     {
       "basename": "成员初始化列表",
       "path": "Notion/C++/笔记/成员初始化列表.md"
-    },
-    {
-      "basename": "隐式构造函数",
-      "path": "Notion/C++/笔记/隐式构造函数.md"
     },
     {
       "basename": "this关键字",
@@ -89,24 +125,12 @@
       "path": "Notion/Read Plans/C++ Primer.md"
     },
     {
-      "basename": "纯虚函数",
-      "path": "Notion/C++/笔记/纯虚函数.md"
-    },
-    {
       "basename": "code",
       "path": "CS/ROS 1/code.md"
     },
     {
       "basename": "ROS",
       "path": "CS/ROS 1/ROS.md"
-    },
-    {
-      "basename": "虚函数",
-      "path": "Notion/C++/笔记/虚函数.md"
-    },
-    {
-      "basename": "构造函数与析构函数",
-      "path": "Notion/C++/笔记/构造函数与析构函数.md"
     },
     {
       "basename": "电影",
@@ -171,34 +195,6 @@
     {
       "basename": "【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客",
       "path": "Notion/autoware_csdn专栏/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客/【传感器sensor】机器人-无人驾驶常用传感器模型、选型与安装_无人驾驶和人型机器人用传感器技术多吗？-CSDN博客.md"
-    },
-    {
-      "basename": "task",
-      "path": "Notion/Task List/task.md"
-    },
-    {
-      "basename": "Effective CPP",
-      "path": "Notion/Task List/Effective CPP.md"
-    },
-    {
-      "basename": "git SVN",
-      "path": "Notion/tool/git SVN/git SVN.md"
-    },
-    {
-      "basename": "建图",
-      "path": "CS/ROS 1/建图.md"
-    },
-    {
-      "basename": "ROS-callback",
-      "path": "CS/ROS 1/ROS-callback.md"
-    },
-    {
-      "basename": "C Primer Plus",
-      "path": "Notion/Read Plans/C Primer Plus.md"
-    },
-    {
-      "basename": "八月2日",
-      "path": "Notion/TODO-List/捌/八月2日.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,6 @@ Summary: ROS端的MQTT信息发送与打包；ROS-非ROS通信；ROS-ROS端到�
 Project:
   - "[[service]]"
 Parent-task:
-  - "[[status connection]]"
+  - "[[Notion/自动驾驶/工作内容/项目目录/status connection]]"
 ---
 ## Description
