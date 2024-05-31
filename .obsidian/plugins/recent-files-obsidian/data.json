@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1",
+      "path": "Notion/Task List/进度和任务规划/杂物/8.1.md"
+    },
+    {
       "basename": "循迹",
       "path": "Notion/脚本/循迹/循迹.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "配置",
       "path": "write/obsidian/配置.md"
-    },
-    {
-      "basename": "docker desktop修复",
-      "path": "CS/docker/docker desktop修复.md"
     }
   ],
   "omittedPaths": [],
