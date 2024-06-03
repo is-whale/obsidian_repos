@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/脚本/循迹/循迹思路以及代码实现.md",
+                "file": "Notion/C++/笔记/template 模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/脚本/循迹/循迹思路以及代码实现.md",
+                "file": "Notion/C++/笔记/template 模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/脚本/循迹/循迹思路以及代码实现.md",
+                "file": "Notion/C++/笔记/template 模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/脚本/循迹/循迹思路以及代码实现.md"
+                "file": "Notion/C++/笔记/template 模板.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "efb4953f85b89e15",
   "lastOpenFiles": [
+    "images/Pasted image 20240603111752.png",
+    "Notion/脚本/循迹/循迹思路以及代码实现.md",
+    "Notion/C++/笔记/template 模板.md",
     "Notion/C++/笔记/智能指针.md",
     "Notion/C++/笔记/虚函数.md",
     "Notion/自动驾驶/planner.md",
@@ -190,9 +193,6 @@
     "Welcome.md",
     "Notion/C++/C++.md",
     "Notion/C++/日常经验/模版函数.md",
-    "Notion/C++/日常经验/zhihu.md",
-    "Notion/C++/侯捷笔记/C++面向对象高级编程/P16 non-explicit-one-argument ctor/P16 non-explicit-one-argument ctor.md",
-    "Notion/C++/侯捷笔记/C++面向对象高级编程/C++面向对象高级编程.md",
     "images/Pasted image 20240527102644.png",
     "images/Pasted image 20240527102157.png",
     "images/Pasted image 20240527100029.png",
