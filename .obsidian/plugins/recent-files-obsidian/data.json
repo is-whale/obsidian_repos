@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "github项目",
+      "path": "Autonomous driving/github/github项目.md"
+    },
+    {
       "basename": "P31  关于this",
       "path": "Notion/C++/侯捷笔记/P31  关于this.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客",
       "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客.md"
-    },
-    {
-      "basename": "【无人驾驶autoware 项目实战】传感器数据获取、数据采集方案_autoware数据集-CSDN博客",
-      "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】传感器数据获取、数据采集方案_autoware数据集-CSDN博客/【无人驾驶autoware 项目实战】传感器数据获取、数据采集方案_autoware数据集-CSDN博客.md"
     }
   ],
   "omittedPaths": [],
