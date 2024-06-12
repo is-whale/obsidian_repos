@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "github项目",
-      "path": "Autonomous driving/github/github项目.md"
+      "basename": "path planner",
+      "path": "Autonomous driving/planner/path planner.md"
     },
     {
       "basename": "P31  关于this",
-      "path": "Notion/C++/侯捷笔记/P31  关于this.md"
+      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/P31  关于this.md"
+    },
+    {
+      "basename": "github项目",
+      "path": "Autonomous driving/github/github项目.md"
     },
     {
       "basename": "P27",
@@ -195,10 +199,6 @@
     {
       "basename": "【无人驾驶autoware 项目实战】规划-任务规划mission_planning_autoware 规划求解失败备选机制-CSDN博客",
       "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-任务规划mission_planning_autoware 规划求解失败备选机制-CSDN博客/【无人驾驶autoware 项目实战】规划-任务规划mission_planning_autoware 规划求解失败备选机制-CSDN博客.md"
-    },
-    {
-      "basename": "【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客",
-      "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客/【无人驾驶autoware 项目实战】规划-路径跟踪path following-CSDN博客.md"
     }
   ],
   "omittedPaths": [],
