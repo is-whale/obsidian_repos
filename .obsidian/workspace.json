@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/C++/笔记/template 模板.md",
+                "file": "Notion/C++/侯捷笔记/P31  关于this.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/template 模板.md",
+                "file": "Notion/C++/侯捷笔记/P31  关于this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/template 模板.md",
+                "file": "Notion/C++/侯捷笔记/P31  关于this.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/C++/笔记/template 模板.md"
+                "file": "Notion/C++/侯捷笔记/P31  关于this.md"
               }
             }
           }
@@ -158,8 +158,12 @@
   },
   "active": "efb4953f85b89e15",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20240612101715.png",
+    "Notion/C++/侯捷笔记/C++面向对象高级编程/P27/P27.md",
+    "Notion/C++/侯捷笔记/P31  关于this.md",
+    "Notion/C++/笔记/关键字/this关键字.md",
     "Notion/C++/笔记/template 模板.md",
+    "conflict-files-obsidian-git.md",
     "images/Pasted image 20240603111752.png",
     "Notion/脚本/循迹/循迹思路以及代码实现.md",
     "Notion/C++/笔记/智能指针.md",
@@ -190,10 +194,6 @@
     "Notion/C++/笔记/关键字",
     "images/Pasted image 20240527110237.png",
     "images/Pasted image 20240527110210.png",
-    "Notion/C++/日常经验/控制数据算法.md",
-    "Welcome.md",
-    "Notion/C++/C++.md",
-    "Notion/C++/日常经验/模版函数.md",
     "images/Pasted image 20240527102644.png",
     "images/Pasted image 20240527102157.png",
     "images/Pasted image 20240527100029.png",
