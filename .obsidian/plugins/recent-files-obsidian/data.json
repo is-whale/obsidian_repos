@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "电影",
+      "path": "Notion/笔记/电影.md"
+    },
+    {
+      "basename": "github项目",
+      "path": "Autonomous driving/github/github项目.md"
+    },
+    {
       "basename": "path planner",
       "path": "Autonomous driving/planner/path planner.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled 4 4",
       "path": "images/Untitled 4 4.png"
-    },
-    {
-      "basename": "Untitled 4 5",
-      "path": "images/Untitled 4 5.png"
-    },
-    {
-      "basename": "Untitled 4 6",
-      "path": "images/Untitled 4 6.png"
     }
   ],
   "omittedPaths": [],
