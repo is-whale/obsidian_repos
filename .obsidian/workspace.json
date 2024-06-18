@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/Untitled 1 18.png"
+                "file": "images/Untitled 33.png"
               }
             }
           }
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 235.5
   },
   "right": {
     "id": "f3425bf397f63fc5",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Untitled 1 18.png",
+                "file": "images/Untitled 33.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Untitled 1 18.png",
+                "file": "images/Untitled 33.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Untitled 1 18.png"
+                "file": "images/Untitled 33.png"
               }
             }
           }
@@ -155,6 +155,10 @@
   },
   "active": "efb4953f85b89e15",
   "lastOpenFiles": [
+    "images/Untitled 15.png",
+    "images/Untitled 9.png",
+    "images/Untitled 8 2.png",
+    "images/Untitled 1 18.png",
     "images/Untitled 1 15.png",
     "images/Untitled 1 11.png",
     "images/Untitled 1 8.png",
@@ -162,10 +166,6 @@
     "images/%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png",
     "images/3ad0986877ac4197acc3e4875de81b4e 2.png",
     "images/07fca67392094cf499299da1189b21f6.png",
-    "images/2431cd18cef24021b42d018df56f96c7.png",
-    "images/ae83e63e1f3b44d6872f1fa4af6627b7.png",
-    "images/b5f535436eaa49dfbd19d4778a68f7ae.png",
-    "images/articleReadEyes2 19.png",
     "未命名.canvas",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4..md",
     "Autonomous driving/planner/path planner.md",
