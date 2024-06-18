@@ -11,12 +11,9 @@
             "id": "efb4953f85b89e15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "images/Untitled 1 18.png"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md",
+                "file": "images/Untitled 1 18.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md",
+                "file": "images/Untitled 1 18.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous driving/planner/path planner.md"
+                "file": "images/Untitled 1 18.png"
               }
             }
           }
@@ -158,15 +155,27 @@
   },
   "active": "efb4953f85b89e15",
   "lastOpenFiles": [
+    "images/Untitled 1 15.png",
+    "images/Untitled 1 11.png",
+    "images/Untitled 1 8.png",
+    "images/%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE 2.png",
+    "images/%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png",
+    "images/3ad0986877ac4197acc3e4875de81b4e 2.png",
+    "images/07fca67392094cf499299da1189b21f6.png",
+    "images/2431cd18cef24021b42d018df56f96c7.png",
+    "images/ae83e63e1f3b44d6872f1fa4af6627b7.png",
+    "images/b5f535436eaa49dfbd19d4778a68f7ae.png",
+    "images/articleReadEyes2 19.png",
+    "未命名.canvas",
+    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4..md",
+    "Autonomous driving/planner/path planner.md",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P31  关于this.md",
     "Autonomous driving/github/github项目.md",
     "Autonomous driving/github",
-    "images/Pasted image 20240612101715.png",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P27/P27.md",
     "Notion/C++/笔记/关键字/this关键字.md",
     "Notion/C++/笔记/template 模板.md",
     "conflict-files-obsidian-git.md",
-    "images/Pasted image 20240603111752.png",
     "Notion/脚本/循迹/循迹思路以及代码实现.md",
     "Notion/C++/笔记/智能指针.md",
     "Notion/C++/笔记/虚函数.md",
@@ -183,21 +192,9 @@
     "Notion/C++/笔记/纯虚函数.md",
     "Notion/自动驾驶/未命名.canvas",
     "Notion/自动驾驶/自动驾驶.md",
-    "images/Pasted image 20240528100952.png",
-    "images/Pasted image 20240528100734.png",
     "readme.md",
     "create a link.md",
-    "write/template.md",
-    "未命名.canvas",
-    "images/Pasted image 20240527113158.png",
-    "images/Pasted image 20240527105433.png.md",
-    "images/Pasted image 20240527105433.png",
-    "Notion/C++/笔记/关键字/explicit.md",
     "Notion/C++/笔记/关键字",
-    "images/Pasted image 20240527110237.png",
-    "images/Pasted image 20240527110210.png",
-    "images/Pasted image 20240527102644.png",
-    "images/Pasted image 20240527102157.png",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15",

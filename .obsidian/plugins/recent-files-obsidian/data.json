@@ -1,184 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "path planner",
-      "path": "Autonomous driving/planner/path planner.md"
+      "basename": "Untitled 1 18",
+      "path": "images/Untitled 1 18.png"
     },
     {
-      "basename": "P31  关于this",
-      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/P31  关于this.md"
+      "basename": "Untitled 1 15",
+      "path": "images/Untitled 1 15.png"
     },
     {
-      "basename": "github项目",
-      "path": "Autonomous driving/github/github项目.md"
+      "basename": "Untitled 1 11",
+      "path": "images/Untitled 1 11.png"
     },
     {
-      "basename": "P27",
-      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/P27/P27.md"
-    },
-    {
-      "basename": "this关键字",
-      "path": "Notion/C++/笔记/关键字/this关键字.md"
-    },
-    {
-      "basename": "template 模板",
-      "path": "Notion/C++/笔记/template 模板.md"
-    },
-    {
-      "basename": "循迹思路以及代码实现",
-      "path": "Notion/脚本/循迹/循迹思路以及代码实现.md"
-    },
-    {
-      "basename": "智能指针",
-      "path": "Notion/C++/笔记/智能指针.md"
-    },
-    {
-      "basename": "虚函数",
-      "path": "Notion/C++/笔记/虚函数.md"
-    },
-    {
-      "basename": "planner",
-      "path": "Notion/自动驾驶/planner.md"
-    },
-    {
-      "basename": "技术规划",
-      "path": "Notion/自动驾驶/工作内容/项目目录/技术规划.md"
-    },
-    {
-      "basename": "仿真环境",
-      "path": "Notion/自动驾驶/行业现状/仿真环境.md"
-    },
-    {
-      "basename": "课程",
-      "path": "Notion/自动驾驶/技术学习/系列教程/课程.md"
-    },
-    {
-      "basename": "系列教程",
-      "path": "Notion/自动驾驶/技术学习/系列教程/系列教程.md"
-    },
-    {
-      "basename": "自动驾驶概述",
-      "path": "Notion/自动驾驶/技术学习/系列教程/自动驾驶概述.md"
-    },
-    {
-      "basename": "隐式构造函数",
-      "path": "Notion/C++/笔记/隐式构造函数.md"
-    },
-    {
-      "basename": "构造函数与析构函数",
-      "path": "Notion/C++/笔记/构造函数与析构函数.md"
-    },
-    {
-      "basename": "箭头操作符",
-      "path": "Notion/C++/笔记/箭头操作符.md"
-    },
-    {
-      "basename": "对象生存期",
-      "path": "Notion/C++/笔记/对象生存期.md"
-    },
-    {
-      "basename": "纯虚函数",
-      "path": "Notion/C++/笔记/纯虚函数.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
-    },
-    {
-      "basename": "template",
-      "path": "write/template.md"
-    },
-    {
-      "basename": "Pasted image 20240527105433.png",
-      "path": "images/Pasted image 20240527105433.png.md"
-    },
-    {
-      "basename": "explicit",
-      "path": "Notion/C++/笔记/关键字/explicit.md"
-    },
-    {
-      "basename": "控制数据算法",
-      "path": "Notion/C++/日常经验/控制数据算法.md"
-    },
-    {
-      "basename": "模版函数",
-      "path": "Notion/C++/日常经验/模版函数.md"
-    },
-    {
-      "basename": "zhihu",
-      "path": "Notion/C++/日常经验/zhihu.md"
-    },
-    {
-      "basename": "P16 non-explicit-one-argument ctor",
-      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/P16 non-explicit-one-argument ctor/P16 non-explicit-one-argument ctor.md"
-    },
-    {
-      "basename": "C++面向对象高级编程",
-      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/C++面向对象高级编程.md"
-    },
-    {
-      "basename": "成员初始化列表",
-      "path": "Notion/C++/笔记/成员初始化列表.md"
-    },
-    {
-      "basename": "【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客",
-      "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客/【无人驾驶autoware 项目实战】规划-运动规划motion planning_autoware motion-CSDN博客.md"
-    },
-    {
-      "basename": "概述",
-      "path": "Notion/Deeplearning/概述.md"
-    },
-    {
-      "basename": "概率机器人",
-      "path": "Notion/Read Plans/概率机器人.md"
-    },
-    {
-      "basename": "Read Plans",
-      "path": "Notion/Read Plans/Read Plans.md"
-    },
-    {
-      "basename": "Lesson Plan",
-      "path": "Notion/Read Plans/Lesson Plan.md"
-    },
-    {
-      "basename": "C++ Primer",
-      "path": "Notion/Read Plans/C++ Primer.md"
-    },
-    {
-      "basename": "code",
-      "path": "CS/ROS 1/code.md"
-    },
-    {
-      "basename": "ROS",
-      "path": "CS/ROS 1/ROS.md"
-    },
-    {
-      "basename": "电影",
-      "path": "Notion/笔记/电影.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Notion/嵌入式/Docker.md"
-    },
-    {
-      "basename": "3ad0986877ac4197acc3e4875de81b4e 2",
-      "path": "images/3ad0986877ac4197acc3e4875de81b4e 2.png"
-    },
-    {
-      "basename": "2c84f0c11bed445ebcbe13a061821fce 2",
-      "path": "images/2c84f0c11bed445ebcbe13a061821fce 2.png"
-    },
-    {
-      "basename": "2c84f0c11bed445ebcbe13a061821fce",
-      "path": "images/2c84f0c11bed445ebcbe13a061821fce.png"
-    },
-    {
-      "basename": "0fb4e6fb610949a481c40d8236c2bf5e 2",
-      "path": "images/0fb4e6fb610949a481c40d8236c2bf5e 2.png"
-    },
-    {
-      "basename": "0fb4e6fb610949a481c40d8236c2bf5e",
-      "path": "images/0fb4e6fb610949a481c40d8236c2bf5e.png"
+      "basename": "Untitled 1 8",
+      "path": "images/Untitled 1 8.png"
     },
     {
       "basename": "%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE 2",
@@ -189,16 +25,180 @@
       "path": "images/%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png"
     },
     {
-      "basename": "autoware_csdn专栏",
-      "path": "Notion/autoware_csdn专栏/autoware_csdn专栏.md"
+      "basename": "3ad0986877ac4197acc3e4875de81b4e 2",
+      "path": "images/3ad0986877ac4197acc3e4875de81b4e 2.png"
     },
     {
-      "basename": "【无人驾驶autoware 项目实战】规划-行为决策规划_autoware 决策规划-CSDN博客",
-      "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-行为决策规划_autoware 决策规划-CSDN博客/【无人驾驶autoware 项目实战】规划-行为决策规划_autoware 决策规划-CSDN博客.md"
+      "basename": "07fca67392094cf499299da1189b21f6",
+      "path": "images/07fca67392094cf499299da1189b21f6.png"
     },
     {
-      "basename": "【无人驾驶autoware 项目实战】规划-任务规划mission_planning_autoware 规划求解失败备选机制-CSDN博客",
-      "path": "Notion/autoware_csdn专栏/【无人驾驶autoware 项目实战】规划-任务规划mission_planning_autoware 规划求解失败备选机制-CSDN博客/【无人驾驶autoware 项目实战】规划-任务规划mission_planning_autoware 规划求解失败备选机制-CSDN博客.md"
+      "basename": "2431cd18cef24021b42d018df56f96c7",
+      "path": "images/2431cd18cef24021b42d018df56f96c7.png"
+    },
+    {
+      "basename": "ae83e63e1f3b44d6872f1fa4af6627b7",
+      "path": "images/ae83e63e1f3b44d6872f1fa4af6627b7.png"
+    },
+    {
+      "basename": "b5f535436eaa49dfbd19d4778a68f7ae",
+      "path": "images/b5f535436eaa49dfbd19d4778a68f7ae.png"
+    },
+    {
+      "basename": "ae1e5a24852243679ceaa887d0357246",
+      "path": "images/ae1e5a24852243679ceaa887d0357246.png"
+    },
+    {
+      "basename": "abe39f4f68a9478ab9e16a0d6cfe4b4a",
+      "path": "images/abe39f4f68a9478ab9e16a0d6cfe4b4a.png"
+    },
+    {
+      "basename": "a910cc5ec08343ebb6e969556b1356eb",
+      "path": "images/a910cc5ec08343ebb6e969556b1356eb.png"
+    },
+    {
+      "basename": "54492370cdb64330b51b8658914446c2",
+      "path": "images/54492370cdb64330b51b8658914446c2.png"
+    },
+    {
+      "basename": "34416034b68244408c355fb91147190b",
+      "path": "images/34416034b68244408c355fb91147190b.png"
+    },
+    {
+      "basename": "cbad99e55ae74a2fa6baf0397fa13234",
+      "path": "images/cbad99e55ae74a2fa6baf0397fa13234.png"
+    },
+    {
+      "basename": "ec1c7b27c6be4365815b0628e83dfb72",
+      "path": "images/ec1c7b27c6be4365815b0628e83dfb72.png"
+    },
+    {
+      "basename": "fc99e0431f484346a149fea391556d13",
+      "path": "images/fc99e0431f484346a149fea391556d13.png"
+    },
+    {
+      "basename": "lQLPJxauD-Bvqs_NApXNBV2wUQwW-K0WK4AFSGxJ5LVpAA_1373_661",
+      "path": "images/lQLPJxauD-Bvqs_NApXNBV2wUQwW-K0WK4AFSGxJ5LVpAA_1373_661.png"
+    },
+    {
+      "basename": "Pasted image 20240522165956",
+      "path": "images/Pasted image 20240522165956.png"
+    },
+    {
+      "basename": "b079b66a8f9d4189859caffe8ab67a53",
+      "path": "images/b079b66a8f9d4189859caffe8ab67a53.png"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "Pasted image 20240523112854",
+      "path": "images/Pasted image 20240523112854.png"
+    },
+    {
+      "basename": "Pasted image 20240527110237",
+      "path": "images/Pasted image 20240527110237.png"
+    },
+    {
+      "basename": "Pasted image 20240527113158",
+      "path": "images/Pasted image 20240527113158.png"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "images/Untitled 1.png"
+    },
+    {
+      "basename": "Untitled",
+      "path": "images/Untitled.png"
+    },
+    {
+      "basename": "Screenshot_20230825_123209",
+      "path": "images/Screenshot_20230825_123209.jpg"
+    },
+    {
+      "basename": "Untitled 1 2",
+      "path": "images/Untitled 1 2.png"
+    },
+    {
+      "basename": "Untitled 1 4",
+      "path": "images/Untitled 1 4.png"
+    },
+    {
+      "basename": "Untitled 1 5",
+      "path": "images/Untitled 1 5.png"
+    },
+    {
+      "basename": "Untitled 1 9",
+      "path": "images/Untitled 1 9.png"
+    },
+    {
+      "basename": "Untitled 1 13",
+      "path": "images/Untitled 1 13.png"
+    },
+    {
+      "basename": "Untitled 1 17",
+      "path": "images/Untitled 1 17.png"
+    },
+    {
+      "basename": "Untitled 2 9",
+      "path": "images/Untitled 2 9.png"
+    },
+    {
+      "basename": "Untitled 2 11",
+      "path": "images/Untitled 2 11.png"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "images/Untitled 3.png"
+    },
+    {
+      "basename": "Untitled 3 3",
+      "path": "images/Untitled 3 3.png"
+    },
+    {
+      "basename": "Untitled 4 2",
+      "path": "images/Untitled 4 2.png"
+    },
+    {
+      "basename": "Untitled 4 3",
+      "path": "images/Untitled 4 3.png"
+    },
+    {
+      "basename": "Untitled 4 4",
+      "path": "images/Untitled 4 4.png"
+    },
+    {
+      "basename": "Untitled 4 5",
+      "path": "images/Untitled 4 5.png"
+    },
+    {
+      "basename": "Untitled 4 6",
+      "path": "images/Untitled 4 6.png"
+    },
+    {
+      "basename": "Untitled 4 7",
+      "path": "images/Untitled 4 7.png"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "images/Untitled 5.png"
+    },
+    {
+      "basename": "Untitled 5 2",
+      "path": "images/Untitled 5 2.png"
+    },
+    {
+      "basename": "Untitled 5 3",
+      "path": "images/Untitled 5 3.png"
+    },
+    {
+      "basename": "Untitled 5 4",
+      "path": "images/Untitled 5 4.png"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "images/Untitled 6.png"
     }
   ],
   "omittedPaths": [],
