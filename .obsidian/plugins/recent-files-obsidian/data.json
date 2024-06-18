@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "path planner",
+      "path": "Autonomous driving/planner/path planner.md"
+    },
+    {
+      "basename": "Untitled 25",
+      "path": "images/Untitled 25.png"
+    },
+    {
       "basename": "Untitled 33",
       "path": "images/Untitled 33.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled 4 6",
       "path": "images/Untitled 4 6.png"
-    },
-    {
-      "basename": "Untitled 4 7",
-      "path": "images/Untitled 4 7.png"
-    },
-    {
-      "basename": "Untitled 5",
-      "path": "images/Untitled 5.png"
     }
   ],
   "omittedPaths": [],
