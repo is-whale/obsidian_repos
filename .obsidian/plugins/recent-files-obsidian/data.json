@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "C Primer Plus",
+      "path": "Notion/Read Plans/C Primer Plus.md"
+    },
+    {
+      "basename": "C++ Primer",
+      "path": "Notion/Read Plans/C++ Primer.md"
+    },
+    {
       "basename": "电影",
       "path": "Notion/笔记/电影.md"
+    },
+    {
+      "basename": "docker部署",
+      "path": "Notion/自动驾驶/工作内容/docker部署.md"
+    },
+    {
+      "basename": "技术思路",
+      "path": "Notion/自动驾驶/工作内容/技术思路/技术思路.md"
     },
     {
       "basename": "github项目",
@@ -183,22 +199,6 @@
     {
       "basename": "Untitled 3",
       "path": "images/Untitled 3.png"
-    },
-    {
-      "basename": "Untitled 3 3",
-      "path": "images/Untitled 3 3.png"
-    },
-    {
-      "basename": "Untitled 4 2",
-      "path": "images/Untitled 4 2.png"
-    },
-    {
-      "basename": "Untitled 4 3",
-      "path": "images/Untitled 4 3.png"
-    },
-    {
-      "basename": "Untitled 4 4",
-      "path": "images/Untitled 4 4.png"
     }
   ],
   "omittedPaths": [],

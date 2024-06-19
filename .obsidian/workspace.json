@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/笔记/电影.md",
+                "file": "Notion/Read Plans/C++ Primer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/笔记/电影.md",
+                "file": "Notion/Read Plans/C++ Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/笔记/电影.md",
+                "file": "Notion/Read Plans/C++ Primer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/笔记/电影.md"
+                "file": "Notion/Read Plans/C++ Primer.md"
               }
             }
           }
@@ -156,8 +156,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "efb4953f85b89e15",
+  "active": "b6e206645d25a752",
   "lastOpenFiles": [
+    "Notion/笔记/电影.md",
+    "Notion/自动驾驶/工作内容/docker部署.md",
+    "Notion/自动驾驶/工作内容/工作内容.md",
+    "Notion/自动驾驶/工作内容/ZMQ.md",
+    "Notion/自动驾驶/工作内容/RoBest_Car.md",
+    "Notion/自动驾驶/工作内容/MQTT项目.md",
+    "Notion/自动驾驶/工作内容/转正.md",
+    "Notion/自动驾驶/工作内容/技术思路/技术思路.md",
+    "Notion/自动驾驶/工作内容/岗位说明书.md",
+    "Notion/自动驾驶/工作内容/技术思路/RT/RT.md",
+    "Notion/自动驾驶/工作内容/技术思路/RT/http---blog.iotwrt.com-os-2019-03-21-realtime-.md",
     "Autonomous driving/github/github项目.md",
     "Autonomous driving/planner/path planner.md",
     "images/Untitled 25.png",
@@ -185,17 +196,7 @@
     "Notion/自动驾驶/工作内容/项目目录/技术规划.md",
     "Notion/自动驾驶/行业现状/仿真环境.md",
     "Notion/自动驾驶/技术学习/系列教程/课程.md",
-    "Notion/自动驾驶/技术学习/系列教程/系列教程.md",
-    "Notion/自动驾驶/技术学习/系列教程/自动驾驶概述.md",
-    "Notion/C++/笔记/隐式构造函数.md",
-    "Notion/C++/笔记/构造函数与析构函数.md",
-    "Notion/C++/笔记/箭头操作符.md",
-    "Notion/C++/笔记/对象生存期.md",
-    "Notion/C++/笔记/纯虚函数.md",
     "Notion/自动驾驶/未命名.canvas",
-    "Notion/自动驾驶/自动驾驶.md",
-    "readme.md",
-    "create a link.md",
     "Notion/C++/笔记/关键字",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16",
