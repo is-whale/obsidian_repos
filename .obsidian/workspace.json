@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Read Plans/C++ Primer.md",
+                "file": "Notion/Read Plans/C Primer Plus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Read Plans/C++ Primer.md",
+                "file": "Notion/Read Plans/C Primer Plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Read Plans/C++ Primer.md",
+                "file": "Notion/Read Plans/C Primer Plus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Read Plans/C++ Primer.md"
+                "file": "Notion/Read Plans/C Primer Plus.md"
               }
             }
           }
@@ -156,8 +156,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6e206645d25a752",
+  "active": "efb4953f85b89e15",
   "lastOpenFiles": [
+    "Notion/Read Plans/C++ Primer.md",
     "Notion/笔记/电影.md",
     "Notion/自动驾驶/工作内容/docker部署.md",
     "Notion/自动驾驶/工作内容/工作内容.md",
@@ -195,7 +196,6 @@
     "Notion/自动驾驶/planner.md",
     "Notion/自动驾驶/工作内容/项目目录/技术规划.md",
     "Notion/自动驾驶/行业现状/仿真环境.md",
-    "Notion/自动驾驶/技术学习/系列教程/课程.md",
     "Notion/自动驾驶/未命名.canvas",
     "Notion/C++/笔记/关键字",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
