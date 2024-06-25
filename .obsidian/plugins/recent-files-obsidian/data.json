@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PNC Map",
+      "path": "Notion/自动驾驶/Planner/PNC Map.md"
+    },
+    {
       "basename": "blog",
       "path": "Notion/自动驾驶/Planner/blog.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1 13",
       "path": "images/Untitled 1 13.png"
-    },
-    {
-      "basename": "Untitled 1 17",
-      "path": "images/Untitled 1 17.png"
     }
   ],
   "omittedPaths": [],
