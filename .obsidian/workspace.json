@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/自动驾驶/Planner/论文.md",
+                "file": "Notion/自动驾驶/Planner/论文资料.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/自动驾驶/Planner/论文.md",
+                "file": "Notion/自动驾驶/Planner/论文资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/自动驾驶/Planner/论文.md",
+                "file": "Notion/自动驾驶/Planner/论文资料.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/自动驾驶/Planner/论文.md"
+                "file": "Notion/自动驾驶/Planner/论文资料.md"
               }
             }
           }
@@ -186,7 +186,7 @@
   "active": "81b9a92575819087",
   "lastOpenFiles": [
     "Notion/自动驾驶/Planner/planner.md",
-    "Notion/自动驾驶/Planner/论文.md",
+    "Notion/自动驾驶/Planner/论文资料.md",
     "Notion/自动驾驶/Planner/Lattice planner",
     "Notion/自动驾驶/Planner",
     "Notion/自动驾驶/未命名.md",
