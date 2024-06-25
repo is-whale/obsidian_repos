@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "论文",
+      "path": "Notion/自动驾驶/Planner/论文.md"
+    },
+    {
+      "basename": "planner",
+      "path": "Notion/自动驾驶/Planner/planner.md"
+    },
+    {
       "basename": "C Primer Plus",
       "path": "Notion/Read Plans/C Primer Plus.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled 2 9",
       "path": "images/Untitled 2 9.png"
-    },
-    {
-      "basename": "Untitled 2 11",
-      "path": "images/Untitled 2 11.png"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "images/Untitled 3.png"
     }
   ],
   "omittedPaths": [],

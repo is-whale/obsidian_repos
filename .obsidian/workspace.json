@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Read Plans/C Primer Plus.md",
+                "file": "Notion/自动驾驶/Planner/planner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc830c1e000b993e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/自动驾驶/Planner/planner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b9a92575819087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/自动驾驶/Planner/论文.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Read Plans/C Primer Plus.md",
+                "file": "Notion/自动驾驶/Planner/论文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Read Plans/C Primer Plus.md",
+                "file": "Notion/自动驾驶/Planner/论文.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Read Plans/C Primer Plus.md"
+                "file": "Notion/自动驾驶/Planner/论文.md"
               }
             }
           }
@@ -156,8 +183,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "efb4953f85b89e15",
+  "active": "81b9a92575819087",
   "lastOpenFiles": [
+    "Notion/自动驾驶/Planner/planner.md",
+    "Notion/自动驾驶/Planner/论文.md",
+    "Notion/自动驾驶/Planner/Lattice planner",
+    "Notion/自动驾驶/Planner",
+    "Notion/自动驾驶/未命名.md",
+    "Notion/Read Plans/C Primer Plus.md",
     "Notion/Read Plans/C++ Primer.md",
     "Notion/笔记/电影.md",
     "Notion/自动驾驶/工作内容/docker部署.md",
@@ -192,10 +225,6 @@
     "conflict-files-obsidian-git.md",
     "Notion/脚本/循迹/循迹思路以及代码实现.md",
     "Notion/C++/笔记/智能指针.md",
-    "Notion/C++/笔记/虚函数.md",
-    "Notion/自动驾驶/planner.md",
-    "Notion/自动驾驶/工作内容/项目目录/技术规划.md",
-    "Notion/自动驾驶/行业现状/仿真环境.md",
     "Notion/自动驾驶/未命名.canvas",
     "Notion/C++/笔记/关键字",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
@@ -204,8 +233,6 @@
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 14",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 13",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12",
-    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 11",
-    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 10",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
