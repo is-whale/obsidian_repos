@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "blog",
+      "path": "Notion/自动驾驶/Planner/blog.md"
+    },
+    {
       "basename": "理论资料",
       "path": "Notion/自动驾驶/Planner/理论资料.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1 17",
       "path": "images/Untitled 1 17.png"
-    },
-    {
-      "basename": "Untitled 2 9",
-      "path": "images/Untitled 2 9.png"
     }
   ],
   "omittedPaths": [],

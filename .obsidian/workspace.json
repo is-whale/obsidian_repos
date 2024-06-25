@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c2af4579848a0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/自动驾驶/Planner/blog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/自动驾驶/Planner/理论资料.md",
+                "file": "Notion/自动驾驶/Planner/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/自动驾驶/Planner/理论资料.md",
+                "file": "Notion/自动驾驶/Planner/blog.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/自动驾驶/Planner/理论资料.md"
+                "file": "Notion/自动驾驶/Planner/blog.md"
               }
             }
           }
@@ -183,10 +196,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "81b9a92575819087",
+  "active": "5c2af4579848a0d0",
   "lastOpenFiles": [
-    "Notion/自动驾驶/Planner/planner.md",
     "Notion/自动驾驶/Planner/理论资料.md",
+    "Notion/自动驾驶/Planner/blog.md",
+    "Notion/自动驾驶/Planner/Apollo",
+    "Notion/自动驾驶/Planner/planner.md",
     "Notion/自动驾驶/Planner/Lattice planner",
     "Notion/自动驾驶/Planner",
     "Notion/自动驾驶/未命名.md",
@@ -224,7 +239,6 @@
     "Notion/C++/笔记/template 模板.md",
     "conflict-files-obsidian-git.md",
     "Notion/脚本/循迹/循迹思路以及代码实现.md",
-    "Notion/C++/笔记/智能指针.md",
     "Notion/自动驾驶/未命名.canvas",
     "Notion/C++/笔记/关键字",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
@@ -232,7 +246,6 @@
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 14",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 13",
-    "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
