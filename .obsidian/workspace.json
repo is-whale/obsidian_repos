@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4df83c5a09fe11d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/自动驾驶/Planner/PNC Map.md",
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/自动驾驶/Planner/PNC Map.md",
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/自动驾驶/Planner/PNC Map.md"
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md"
               }
             }
           }
@@ -209,13 +222,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ed62fea198662ce1",
+  "active": "b4df83c5a09fe11d",
   "lastOpenFiles": [
-    "Notion/自动驾驶/Planner/blog.md",
+    "Notion/自动驾驶/Planner/planner.md",
+    "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
+    "Notion/自动驾驶/Planner/未命名.md",
     "Notion/自动驾驶/Planner/PNC Map.md",
+    "Notion/自动驾驶/Planner/blog.md",
     "Notion/自动驾驶/Planner/理论资料.md",
     "Notion/自动驾驶/Planner/Apollo",
-    "Notion/自动驾驶/Planner/planner.md",
     "Notion/自动驾驶/Planner/Lattice planner",
     "Notion/自动驾驶/Planner",
     "Notion/自动驾驶/未命名.md",
@@ -250,8 +265,6 @@
     "Autonomous driving/github",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P27/P27.md",
     "Notion/C++/笔记/关键字/this关键字.md",
-    "Notion/C++/笔记/template 模板.md",
-    "conflict-files-obsidian-git.md",
     "Notion/自动驾驶/未命名.canvas",
     "Notion/C++/笔记/关键字",
     "images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17",
