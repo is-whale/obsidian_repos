@@ -17,3 +17,7 @@
 - apollo::planning::TrajectoryOptimizer ：主要用于生成轨迹，比如开放空间规划 `apollo::planning::OpenSpaceTrajectoryProvider` 。
 
 [Apollo: README_cn (baidu.com)](https://apollo.baidu.com/docs/apollo/latest/md_modules_2external__command_2command__processor_2lane__follow__command__processor_2README__cn.html)
+
+scenario基类的实现
+modules/planning/planning_interface_base/scenario_base/scenario.cc
+读取配置文件中的场景，创建场景，设置状态，获取重装，重置场景
