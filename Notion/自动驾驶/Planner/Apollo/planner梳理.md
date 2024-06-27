@@ -15,3 +15,5 @@
 - apollo::planning::PathGeneration ：主要用于在主路上生成路径，比如规划借道路径 LaneBorrowPath 、靠边停车路径 PullOverPath ，沿车道行驶路径 LaneFollowPath 等。
 - apollo::planning::SpeedOptimizer ：主要用于在主路上规划速度曲线，比如基于二次规划的速度规划，基于非线性规划的速度规划。
 - apollo::planning::TrajectoryOptimizer ：主要用于生成轨迹，比如开放空间规划 `apollo::planning::OpenSpaceTrajectoryProvider` 。
+
+[Apollo: README_cn (baidu.com)](https://apollo.baidu.com/docs/apollo/latest/md_modules_2external__command_2command__processor_2lane__follow__command__processor_2README__cn.html)
