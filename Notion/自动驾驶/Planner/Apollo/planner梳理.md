@@ -18,6 +18,14 @@
 
 [Apollo: README_cn (baidu.com)](https://apollo.baidu.com/docs/apollo/latest/md_modules_2external__command_2command__processor_2lane__follow__command__processor_2README__cn.html)
 
-scenario基类的实现
+### scenario基类的实现
 modules/planning/planning_interface_base/scenario_base/scenario.cc
 读取配置文件中的场景，创建场景，设置状态，获取重装，重置场景
+### Task基类
+modules/planning/planning_interface_base/task_base/task.cc
+初始化函数，返回名称，执行函数
+`Status Task::Execute(Frame* frame, ReferenceLineInfo* reference_line_info) {`
+  `frame_ = frame;`
+  `reference_line_info_ = reference_line_info;`
+  `return Status::OK();`
+`}`
