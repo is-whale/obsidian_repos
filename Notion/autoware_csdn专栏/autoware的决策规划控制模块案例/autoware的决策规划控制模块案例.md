@@ -109,7 +109,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/124654200
 
 ## **决策规划模块功能介绍**
 
-![[3c5af986faa4474b8c9599e7459d3a6e.png]]
+![[post-images/3c5af986faa4474b8c9599e7459d3a6e.png]]
 
 ### **1.规划常用任务**
 
@@ -185,7 +185,7 @@ waypoint_maker功能包对应的节点
   
 .
 
-![[d9579aa847af49859bfb96d7e72eb908.png]]
+![[post-images/d9579aa847af49859bfb96d7e72eb908.png]]
 
 ### **（2）规划代码解析及注释【重点】**
 
@@ -261,9 +261,9 @@ Freespace planner软件包提供全局规划器节点，用于规划存在静态
   
 .
 
-![[20dce5d476c4486ea21d17b31f69542d.png]]
+![[post-images/20dce5d476c4486ea21d17b31f69542d.png]]
 
-![[3b60339378c84d4d9b9b8cfe7d9ec3d0.png]]
+![[post-images/3b60339378c84d4d9b9b8cfe7d9ec3d0.png]]
 
 ### **（2）规划代码解析及注释**
 
@@ -303,7 +303,7 @@ astar搜索autoware进行的改进，在expand中规定了搜索的扩展方向�
   
 .
 
-![[fc99e0431f484346a149fea391556d13.png]]
+![[post-images/fc99e0431f484346a149fea391556d13.png]]
 
 ### **（3）局部代价地图生成 costmap_generator**
 
@@ -517,7 +517,7 @@ waypoint_planner功能包对应的节点
   
 .
 
-![[e167ae1f04d64d73a476f6fc7efd479e.png]]
+![[post-images/e167ae1f04d64d73a476f6fc7efd479e.png]]
 
 ### **（2）规划代码解析及注释**
 
@@ -551,7 +551,7 @@ waypoint_planner功能包对应的节点
   
 .
 
-![[fc99e0431f484346a149fea391556d13.png]]
+![[post-images/fc99e0431f484346a149fea391556d13.png]]
 
 ### **（3）Velocity_set速度规划模块**
 
@@ -563,7 +563,7 @@ waypoint_planner功能包对应的节点
   
 .
 
-![[3089bfcff97d442c8d1f4845a4a103c0.png]]
+![[post-images/3089bfcff97d442c8d1f4845a4a103c0.png]]
 
 ### **方案三、open_planner**
 
@@ -571,7 +571,7 @@ waypoint_planner功能包对应的节点
   
 （open_planner是基于语义地图vector_map进行采样的局部规划优化）
 
-![[8a935bb760ad472ba9aa549768db266d.png]]
+![[post-images/8a935bb760ad472ba9aa549768db266d.png]]
 
 ### **（1）规划原理流程介绍**
 
@@ -599,15 +599,15 @@ op_local_planner把open_planner的算法参数传进去。如规划距离
   
 在open_planner中会根据全局路径生成多个候选路径，每条路径通过代价函数进行评分具有代价，选择代价最低的来走，红色线的是不可行驶的，open_planner是实时运行的
 
-![[30d4c49ccce74c8388d819c90c489db0.png]]
+![[post-images/30d4c49ccce74c8388d819c90c489db0.png]]
 
-![[ec1c7b27c6be4365815b0628e83dfb72.png]]
+![[post-images/ec1c7b27c6be4365815b0628e83dfb72.png]]
 
 ### **（2）规划代码解析及注释**
 
 open_planner的原理
 
-![[f560693930e74a549a14e3b2b6a45346.png]]
+![[post-images/f560693930e74a549a14e3b2b6a45346.png]]
 
 ### **（1）op_common_params（主要）**
 
@@ -655,9 +655,9 @@ open_planner的原理
 
 包括路径跟踪控制和VMC的车机控制 . .
 
-![[d9bdc0ae6bb94cef930e27cc3a06f2b9.png]]
+![[post-images/d9bdc0ae6bb94cef930e27cc3a06f2b9.png]]
 
-![[f9fc0d2c58ed46b1bf1e4245bcb4a8d2.png]]
+![[post-images/f9fc0d2c58ed46b1bf1e4245bcb4a8d2.png]]
 
 ### **方案一、pure_persuit纯跟踪算法**
 
@@ -669,7 +669,7 @@ autoware实现增加了很多调试和系统话题的接口，移植最好找一
   
 .
 
-![[bbbc2cf6968b4567a6f50b94fb8ad8c8.png]]
+![[post-images/bbbc2cf6968b4567a6f50b94fb8ad8c8.png]]
 
 ### **方案二、模型预测控制mpc算法**
 
@@ -703,11 +703,11 @@ autoware实现增加了很多调试和系统话题的接口，移植最好找一
   
 .
 
-![[c3bf6cb7a43d4b7b8103284bd901b0bc.png]]
+![[post-images/c3bf6cb7a43d4b7b8103284bd901b0bc.png]]
 
-![[d7fe77ed1d5f4db7a9ba9fd953b0f5c3.png]]
+![[post-images/d7fe77ed1d5f4db7a9ba9fd953b0f5c3.png]]
 
-![[04bdb1c43b3249998b60d3e204c462b9.png]]
+![[post-images/04bdb1c43b3249998b60d3e204c462b9.png]]
 
 ### **twist_filter控制指令滤波输出**
 
@@ -735,13 +735,13 @@ autoware实现增加了很多调试和系统话题的接口，移植最好找一
 
 .
 
-![[9cf24e161a5a40c99a66526eed6b0db7.jpeg]]
+![[post-images/9cf24e161a5a40c99a66526eed6b0db7.jpeg]]
 
 ### **全局航线状态MissionStates**
 
 .
 
-![[cad605f3b2ae4f10b4c5fe2bc376576f.jpeg]]
+![[post-images/cad605f3b2ae4f10b4c5fe2bc376576f.jpeg]]
 
 ### **局部航线状态MotionStates**
 
@@ -749,7 +749,7 @@ autoware实现增加了很多调试和系统话题的接口，移植最好找一
   
 .
 
-![[6677a7ecd02044448b478e55b446e67f.jpeg]]
+![[post-images/6677a7ecd02044448b478e55b446e67f.jpeg]]
 
 ### **行为和运动状态BehaviorStates**
 
@@ -759,7 +759,7 @@ autoware实现增加了很多调试和系统话题的接口，移植最好找一
   
 .
 
-![[c11300d9e4fe421e9070f474a468d1db.jpeg]]
+![[post-images/c11300d9e4fe421e9070f474a468d1db.jpeg]]
 
 ### **方案三：planner_selector**
 
@@ -803,4 +803,4 @@ autoware实现增加了很多调试和系统话题的接口，移植最好找一
 
 综述论文
 
-![[images/3ad0986877ac4197acc3e4875de81b4e 2.png|3ad0986877ac4197acc3e4875de81b4e 2.png]]
+![[post-images/3ad0986877ac4197acc3e4875de81b4e 2.png|3ad0986877ac4197acc3e4875de81b4e 2.png]]

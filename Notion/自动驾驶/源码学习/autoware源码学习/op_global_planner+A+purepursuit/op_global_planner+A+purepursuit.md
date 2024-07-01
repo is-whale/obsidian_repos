@@ -4,7 +4,7 @@
 
 该结构图不包含矢量地图载入、定位、点云过滤、路面去除、仿真器bridge等节点。
 
-![[images/Untitled 30.png|Untitled 30.png]]
+![[post-images/Untitled 30.png|Untitled 30.png]]
 
 ## **pure_pursuit节点**
 

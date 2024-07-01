@@ -12,7 +12,7 @@ git submodule update --init --recursive
 
 ### 2.工作流
 
-![[images/Untitled 9.png|Untitled 9.png]]
+![[post-images/Untitled 9.png|Untitled 9.png]]
 
 Workspace： 工作区，就是你平时存放项目代码的地方
 
@@ -22,7 +22,7 @@ Repository： 仓库区，就是安全存放数据的位置，这里面有你提
 
 Remote： 远程仓库，托管代码的服务器
 
-![[images/Untitled 1 3.png|Untitled 1 3.png]]
+![[post-images/Untitled 1 3.png|Untitled 1 3.png]]
 
 ### 3.基础命令
 

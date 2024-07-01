@@ -8,4 +8,4 @@ libgoogle-glog-dev
 
 sudo apt install nlohmann-json3-dev
 
-![[images/Untitled 17.png|Untitled 17.png]]
+![[post-images/Untitled 17.png|Untitled 17.png]]

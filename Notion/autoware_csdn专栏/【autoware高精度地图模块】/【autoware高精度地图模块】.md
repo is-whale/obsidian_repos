@@ -45,7 +45,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/124539162
 
 高精度地图是其他模块的支撑（提供先验信息）
 
-![[cb2eb0753c744fe8bf8d99adf26826a5.png]]
+![[post-images/cb2eb0753c744fe8bf8d99adf26826a5.png]]
 
 .
 
@@ -67,7 +67,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/124539162
 
 ### 1）点云地图建立经典的SLAM算法
 
-![[620b8bf91cc84623a298d87361d692b4.png]]
+![[post-images/620b8bf91cc84623a298d87361d692b4.png]]
 
 DNT不带回环检测，DNT中等地图整体效果还不错，大地图还是用load方案好
 
@@ -81,9 +81,9 @@ DNT不带回环检测，DNT中等地图整体效果还不错，大地图还是�
 
 输入输出：输入激光雷达的点云数据、imu、odom，输出pcd点云地图
 
-![[31ce72552c1d4ad899be96af76196afe.png]]
+![[post-images/31ce72552c1d4ad899be96af76196afe.png]]
 
-![[7223762003fd4c28aca9566a9eac4d41.png]]
+![[post-images/7223762003fd4c28aca9566a9eac4d41.png]]
 
 .
 
@@ -93,13 +93,13 @@ DNT不带回环检测，DNT中等地图整体效果还不错，大地图还是�
 
 中等地图还是可以的，通过调整建图分辨率可以得到不同稠密度的点云地图，通过launch文件的参数服务器可以不编译进行调试参数
 
-![[a910cc5ec08343ebb6e969556b1356eb.png]]
+![[post-images/a910cc5ec08343ebb6e969556b1356eb.png]]
 
 .
 
 ### 4）保存pcd的点云地图
 
-![[5af864560bd7486697ba833cf06dc1a0.png]]
+![[post-images/5af864560bd7486697ba833cf06dc1a0.png]]
 
 .
 
@@ -109,9 +109,9 @@ DNT不带回环检测，DNT中等地图整体效果还不错，大地图还是�
 
 对于slam算法而言，位姿变化是通过点云特征匹配（ICP）并优化后得到的
 
-![[44e476595cb74ea5bea8fb7f2f5aa3d0.png]]
+![[post-images/44e476595cb74ea5bea8fb7f2f5aa3d0.png]]
 
-![[a71d286e650241d495aaf4939f5cdcf3.png]]
+![[post-images/a71d286e650241d495aaf4939f5cdcf3.png]]
 
 .
 
@@ -123,13 +123,13 @@ DNT不带回环检测，DNT中等地图整体效果还不错，大地图还是�
 
 语义地图实际上是通过标定提供了特定场景的先验信息，语义地图元素的识别，如斑马线，红绿灯、停止线，语义地图元素的识别不属于感知的范畴，仅仅是先验语义地图的解析【.csv文件的解析而已】
 
-![[images/0fb4e6fb610949a481c40d8236c2bf5e 2.png|0fb4e6fb610949a481c40d8236c2bf5e 2.png]]
+![[post-images/0fb4e6fb610949a481c40d8236c2bf5e 2.png|0fb4e6fb610949a481c40d8236c2bf5e 2.png]]
 
 ### （2）矢量地图绘制（语义信息标注autoware tools的工具使用）
 
 ### 1）语义地图的图例
 
-![[bb7c92c1e4c3429a949f527208b49593.png]]
+![[post-images/bb7c92c1e4c3429a949f527208b49593.png]]
 
 （在点云地图的基础上）
 
@@ -160,27 +160,27 @@ DNT不带回环检测，DNT中等地图整体效果还不错，大地图还是�
 
 1）注册、登录
 
-![[ae83e63e1f3b44d6872f1fa4af6627b7.png]]
+![[post-images/ae83e63e1f3b44d6872f1fa4af6627b7.png]]
 
 2）导入PCD文件点云地图、导入全局路径（可选）、导入之前已经绘制好的csv文件（在这个基础上进行补充：红绿灯、车道线、杆元素、斑马线、可通行区域等等）
 
-![[images/03b8bf4bd5984540b089c22c76636600 2.png|03b8bf4bd5984540b089c22c76636600 2.png]]
+![[post-images/03b8bf4bd5984540b089c22c76636600 2.png|03b8bf4bd5984540b089c22c76636600 2.png]]
 
 3）根据点云形状，使用标注的工具人工绘制普通元素类型的工具
 
-![[57a5c8e820474fe3a84a64ea1bc88144.png]]
+![[post-images/57a5c8e820474fe3a84a64ea1bc88144.png]]
 
 包括road、road shape、road surface、road side 、structure、waypoints
 
 4）据点云形状，人工绘制自定义元素，可通过改变普通元素的参数实现
 
-![[3651242afe384924959ca174efcda915.png]]
+![[post-images/3651242afe384924959ca174efcda915.png]]
 
 Lane车道线可以先画一大条，然后自动分割成多段小的轨迹
 
 5）人工语义地图的保存
 
-![[6afbe04ad77a4fdcb7d33ff461a99a7e.png]]
+![[post-images/6afbe04ad77a4fdcb7d33ff461a99a7e.png]]
 
 保存为一个压缩包
 
@@ -202,7 +202,7 @@ link_id的机制，vector_map会把不相关的目标进行过滤掉，减少工
 
 ### 具体绘制矢量地图的方法参考文档
 
-![[52f0b85880c14b4f9ba0d027dfd9f288.png]]
+![[post-images/52f0b85880c14b4f9ba0d027dfd9f288.png]]
 
 .
 
@@ -212,15 +212,15 @@ link_id的机制，vector_map会把不相关的目标进行过滤掉，减少工
 
 ### 1、高精度地图的定义
 
-![[d948c1ecf25b46c481ca7a0985980362.png]]
+![[post-images/d948c1ecf25b46c481ca7a0985980362.png]]
 
 高精度地图可以理解成为一个数据集，以一定的数据类型的结构体构成的数据集
 
 ### 2、高精度地图的生产流程
 
-![[16f791c4390b420f9cb02ddf05386457.png]]
+![[post-images/16f791c4390b420f9cb02ddf05386457.png]]
 
-![[bd869b2f3d5b4e2d9bd2e985bfb460f6.png]]
+![[post-images/bd869b2f3d5b4e2d9bd2e985bfb460f6.png]]
 
 （1）数据融合是传感器融合的范畴
 
@@ -244,13 +244,13 @@ link_id的机制，vector_map会把不相关的目标进行过滤掉，减少工
 
 地图模块中的map_file功能包解析（autoware的map_file功能包相当于move base的map_server功能包）
 
-![[397b8a2868f24da78ee9218f8edd3ec2.png]]
+![[post-images/397b8a2868f24da78ee9218f8edd3ec2.png]]
 
 (1)Points_map_loader节点是用来解析点云地图pcd的点云数据的，以当前定位数据为基准进行输出topic
 
 (2)Vector_map_loader节点是用来解析人工绘制的.csv文件对应的道路元素的，以当前定位数据为基准进行输出topic
 
-![[34fe339c2b6d4e47bbb58a9c53ba8b5d.png]]
+![[post-images/34fe339c2b6d4e47bbb58a9c53ba8b5d.png]]
 
 ## 四、地图相关的总结
 

@@ -53,7 +53,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121786885
 
 [**地图mapping**](https://blog.csdn.net/qq_35635374/category_11464370.html)
 
-![[resize2Cm_fixed2Ch_2242Cw_224 1]]
+![[post-images/resize2Cm_fixed2Ch_2242Cw_224 1]]
 
 19 篇文章  
 24 订阅  
@@ -67,7 +67,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121786885
 
 [**定位location**](https://blog.csdn.net/qq_35635374/category_11464501.html)
 
-![[resize2Cm_fixed2Ch_2242Cw_224 2]]
+![[post-images/resize2Cm_fixed2Ch_2242Cw_224 2]]
 
 6 篇文章  
 1 订阅  
@@ -114,7 +114,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121786885
 
 比较lidar扫描得到的[点云](https://so.csdn.net/so/search?q=%E7%82%B9%E4%BA%91&spm=1001.2101.3001.7020)和我们的地图点云，其中一个问题在于：lidar扫描得到的点云可能和地图的点云存在细微的区别，这里的偏差可能来自于测量误差，也有可能这个“场景”发生了一下变化（比如说行人，车辆）。NDT配准就是用于解决这些细微的偏差问题。
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_172Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_172Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 . .
 
@@ -136,11 +136,11 @@ NDT并没有比较地图点云和传感器点云中两个点云点与点之间�
   
 下图表示一个二元的正态分布 . .
 
-![[12a2994795ff4c6fb0c2159552d5cccc.png]]
+![[post-images/12a2994795ff4c6fb0c2159552d5cccc.png]]
 
-![[d9c7b2ff331245d1bf71feeb431f0c60.png]]
+![[post-images/d9c7b2ff331245d1bf71feeb431f0c60.png]]
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_182Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_182Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 ### **2.网格化并计算正态分布参数**
 
@@ -156,11 +156,11 @@ NDT算法的第一步就是将参考点云网格化（对于三维地图来说�
   
 .
 
-![[091a4fdfe4b0446a9bf7d8368d1cade0.png]]
+![[post-images/091a4fdfe4b0446a9bf7d8368d1cade0.png]]
 
-![[56cfe19bee094d51b694b6dfc914e051.png]]
+![[post-images/56cfe19bee094d51b694b6dfc914e051.png]]
 
-![[6b6294351a544e10935eb91e5bcc09c0.png]]
+![[post-images/6b6294351a544e10935eb91e5bcc09c0.png]]
 
 ![[images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 3.|watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 3.]]
 
@@ -168,9 +168,9 @@ NDT算法的第一步就是将参考点云网格化（对于三维地图来说�
 
 当使用NDT配准时，目标是找到当前扫描的姿态，使当前扫描的点位于参考扫描（3D地图）表面上的可能性最大化。那么我们需要优化的参数就是对当前扫描的点云的变换（旋转，平移等），我们使用一个变换参数 p→ 来描述。当前扫描为一个点云 X={x1,…,xn},给定扫描点集合 X 和变换参数 p→ ，令空间转换函数 T(p ,xk) 表示使用使用姿态变换 p→ 来移动点x→k ,结合之前的一组状态密度函数（每个网格都有一个PDF），那么最好的变换参数 p→ 应该是最大化似然函数的姿态变换： 那么最大化似然也就相当于最小化负对数似然 −logΘ; 到这里，就到了我们最熟悉的最优化的部分了。现在的任务就是使用优化算法来调整变换参数 p⃗ p→ 来最小化这个负对数似然。NDT算法使用牛顿法进行参数优化。我们不难看出，这里的概率密度函数 f(x⃗ )f(x→) 其实并不要求一定是正态分布，任何能够反映扫描表面的结构信息且对异常扫描点具有鲁棒性的概率密度函数都是可以的。 . .
 
-![[94e0572366ad4f5fa18e893fdd27cf9f.png]]
+![[post-images/94e0572366ad4f5fa18e893fdd27cf9f.png]]
 
-![[583a45a90c0e4fdeb8f46d78474c50d1.png]]
+![[post-images/583a45a90c0e4fdeb8f46d78474c50d1.png]]
 
 ## **四、使用C++实现NDT配准**
 
@@ -210,17 +210,17 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.7059&rep=rep1&type=p
 
 https://blog.csdn.net/Travis_X/article/details/105455195
 
-![[f7bd44daff76490e9f77d6d43cb224cb.png]]
+![[post-images/f7bd44daff76490e9f77d6d43cb224cb.png]]
 
-![[4f97dc4547b145b897de2b6c9d409d02.png]]
+![[post-images/4f97dc4547b145b897de2b6c9d409d02.png]]
 
-![[a28ec44e071b44f59dd5edb62da929a8.png]]
+![[post-images/a28ec44e071b44f59dd5edb62da929a8.png]]
 
-![[images/2c84f0c11bed445ebcbe13a061821fce 2.png|2c84f0c11bed445ebcbe13a061821fce 2.png]]
+![[post-images/2c84f0c11bed445ebcbe13a061821fce 2.png|2c84f0c11bed445ebcbe13a061821fce 2.png]]
 
-![[8d425917cb594eb1aadfc1b00092c631.png]]
+![[post-images/8d425917cb594eb1aadfc1b00092c631.png]]
 
-![[c0c2ff9d8dbe4b1db2026e02eccc91ef.png]]
+![[post-images/c0c2ff9d8dbe4b1db2026e02eccc91ef.png]]
 
 **文章知识点与官方知识档案匹配，可进一步学习相关知识**
 

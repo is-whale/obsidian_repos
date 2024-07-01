@@ -298,7 +298,7 @@ _（4）定位系统（GNSS）信息_
 
 ![[images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4 2.|watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4 2.]]
 
-![[images/154121c935264eb0bd65bbd22524338c 2.png|154121c935264eb0bd65bbd22524338c 2.png]]
+![[post-images/154121c935264eb0bd65bbd22524338c 2.png|154121c935264eb0bd65bbd22524338c 2.png]]
 
 ### **（2）地图构建SLAM模块**
 
@@ -419,39 +419,39 @@ line.csv储存了所有线元素的基本属性 （2）线元素（whiteline.csv
 
 ![[images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 5 2.|watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 5 2.]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 6]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 6]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_122Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_122Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
-![[3b556184ce7a4f4c9aa6696c21d4579f.png]]
+![[post-images/3b556184ce7a4f4c9aa6696c21d4579f.png]]
 
-![[c1191f44987448e19ccd8b2cf66076d9.png]]
+![[post-images/c1191f44987448e19ccd8b2cf66076d9.png]]
 
-![[7b82b1ddaefe453bbdebd8616992f9ef.png]]
+![[post-images/7b82b1ddaefe453bbdebd8616992f9ef.png]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 7]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 7]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 8]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 8]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 9]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 9]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_142Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_142Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
-![[34416034b68244408c355fb91147190b.png]]
+![[post-images/34416034b68244408c355fb91147190b.png]]
 
-![[34276d4f20cd43adb60a99b9361e71cc.png]]
+![[post-images/34276d4f20cd43adb60a99b9361e71cc.png]]
 
-![[0118a44aa0c744ad955f738b322b4dd8.png]]
+![[post-images/0118a44aa0c744ad955f738b322b4dd8.png]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_112Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
 
-![[9386e972ec9e4d798c896526c2e45507.png]]
+![[post-images/9386e972ec9e4d798c896526c2e45507.png]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 10]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 10]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 11]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 11]]
 
 （2）局部地图的建立（用于[轨迹规划](https://so.csdn.net/so/search?q=%E8%BD%A8%E8%BF%B9%E8%A7%84%E5%88%92&spm=1001.2101.3001.7020)）
 
@@ -465,7 +465,7 @@ line.csv储存了所有线元素的基本属性 （2）线元素（whiteline.csv
 
 Lane.csv文件经过多层处理得到的结果是约1米的waypoint,waypoint包含位置和速度两个信息
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 12]]
 
 ### **（5）地图数据包获取**
 
@@ -487,7 +487,7 @@ Autoware还支持其他本地化和映射算法，如迭代最近点（ICP）算
 
 计算车辆当在全局坐标的当前位置(x,y,z,roll,pitch,yaw)，使用LIDAR的扫描数据和预先构建的地图信息。autoware推荐使用正态分布变换(NDT)算法来匹配激光雷达当前帧和3D map
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 13]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 13]]
 
 ### **（2）gnss_localizer**
 
@@ -593,7 +593,7 @@ wf_simulation相当于一个虚拟的小车提供了一个仿真的汽车坐标b
   
 （2）操作步骤 （3）autoware有两个仿真环境，【防盗标记–盒子君hzj】一个是gazebo，一个是LGSVL
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 14]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 14]]
 
 ## **二、autoware的源码解读**
 
@@ -663,7 +663,7 @@ Autoware源码可以去官网的git下载进行阅读学习
 
 这相当于autoware各个功能包的分类，我是理解成一个导航架构，按着这个结构和功能我会把具体每个功能包的原理在其他博客写一些吧 先放个总图哈
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 15]]
 
 ## **三、autoware实操教程**
 
@@ -707,13 +707,13 @@ S. Kato, E. Takeuchi, Y. Ishiguro, Y. Ninomiya, K. Takeda, and T. Hamada. ``An O
 
 我这样表达步骤可能更清晰
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 16]]
 
 ### **3.搭建自己的无人驾驶项目field test步骤**
 
 我这样表达步骤可能更清晰（自己的经验，仅供参考） . . .
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 17]]
 
 ## **总结**
 

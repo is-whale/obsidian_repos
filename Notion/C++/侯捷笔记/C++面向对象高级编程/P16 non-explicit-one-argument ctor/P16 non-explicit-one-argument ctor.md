@@ -4,7 +4,7 @@ Fraction f ( 3,5);
 
 double d = f + 4;
 
-![[images/Untitled 35.png|Untitled 35.png]]
+![[post-images/Untitled 35.png|Untitled 35.png]]
 
 ### 方法一：将f转换为double类型
 
@@ -18,13 +18,13 @@ exolicit 明确的。 绝大部分情况用于构造函数前.
 
 此处表示只有当明确使用构造函数的时候才调用，即阻止了4转换为Fraction类型。
 
-![[images/Untitled 1 14.png|Untitled 1 14.png]]
+![[post-images/Untitled 1 14.png|Untitled 1 14.png]]
 
 可以看到阻止了4的类型转换。
 
 ### 使用举例（标准库）
 
-![[images/Untitled 2 11.png|Untitled 2 11.png]]
+![[post-images/Untitled 2 11.png|Untitled 2 11.png]]
 
 **代理 设计模式（TODO:超链接）**
 

@@ -6,7 +6,7 @@
 
 [[CS/ROS 1/建图]]
 
-![[Untitled.png]]
+![[post-images/Untitled.png]]
 
   
 

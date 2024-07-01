@@ -1,4 +1,4 @@
-![[images/Untitled 11.png|Untitled 11.png]]
+![[post-images/Untitled 11.png|Untitled 11.png]]
 
 项目地址：[http://58.213.47.170:8180/auto_driver](http://58.213.47.170:8180/auto_driver)
 
@@ -26,4 +26,4 @@ ssh方式提交（推荐）
 
 4.提交代码
 
-![[images/Untitled 1 4.png|Untitled 1 4.png]]
+![[post-images/Untitled 1 4.png|Untitled 1 4.png]]

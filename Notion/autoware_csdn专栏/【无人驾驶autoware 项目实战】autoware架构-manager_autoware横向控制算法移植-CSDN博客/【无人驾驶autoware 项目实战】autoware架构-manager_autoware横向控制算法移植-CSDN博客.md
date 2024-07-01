@@ -88,7 +88,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121861608
 
 ## **（3）从算法的基本控制和数据流进行剖析**
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_182Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_182Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 ## **（4）从Autoware的节点图进行剖析【较有用】**
 

@@ -56,7 +56,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/124541215
 
 想要搭建仿真环境，一般是把机器人模型（.xacro）和环境模型（.world）分开进行搭建，最后用launch文件组合在一起【若相关更换仿真环境一般修改下面这两个模型】
 
-![[746e99ca9f04483db2bc8b2caef7e5ef.png]]
+![[post-images/746e99ca9f04483db2bc8b2caef7e5ef.png]]
 
 ### **（1）机器人载体模型仿真方向–.xacro生成及编程**
 
@@ -88,7 +88,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/124541215
   
 2、在仿真环境配置好了之后就可以把仿真看成与系统软件独立的模块，仿真环境模块通过话题数据流与系统软件进行交互
 
-![[b23d52a6a19f4fc195cc1153543c1886.png]]
+![[post-images/b23d52a6a19f4fc195cc1153543c1886.png]]
 
 ## **总结**
 
@@ -102,6 +102,6 @@ URL: https://blog.csdn.net/qq_35635374/article/details/124541215
 
 常用的商业仿真工具 实现简单初步的算法验证可以仅仅使用gazebo+rviz，专业化场景的仿真需要更专业化的商业仿真工具和仿真工程师，这些软件大多数是有免费版本的
 
-![[edea175707304a47a825d69610549c24.png]]
+![[post-images/edea175707304a47a825d69610549c24.png]]
 
 [https://blog.csdn.net/qq_35635374/article/details/121248450](https://blog.csdn.net/qq_35635374/article/details/121248450)

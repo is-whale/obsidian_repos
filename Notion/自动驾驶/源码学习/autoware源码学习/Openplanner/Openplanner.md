@@ -1,10 +1,10 @@
 摘要
 
-![[images/Untitled 29.png|Untitled 29.png]]
+![[post-images/Untitled 29.png|Untitled 29.png]]
 
 ### 1.openplanner数据架构
 
-![[images/Untitled 1 10.png|Untitled 1 10.png]]
+![[post-images/Untitled 1 10.png|Untitled 1 10.png]]
 
 1.1 全局路径规划
 
@@ -18,7 +18,7 @@ OpenPlanner的行为状态生成模块作为系统的决策者。它是一个有
 
 本地路径规划器的输入包括全局参考路径和当前位置。然后，生成多个候选轨迹作为展开，并且本地规划器选择具有最低总成本的轨迹。图4显示了七条可能的展开轨迹，包括中心轨迹。我们使用了斯坦福方法的修改版本[?]。实现算法将在第5节中解释。
 
-![[images/Untitled 2 8.png|Untitled 2 8.png]]
+![[post-images/Untitled 2 8.png|Untitled 2 8.png]]
 
 1.4 性能
 
@@ -30,6 +30,6 @@ OpenPlanner的行为状态生成模块作为系统的决策者。它是一个有
 
 Autoware的决策规划模块主要时基于感知的输出结果，进行全局路径规划和局部路径规划。全局路径规划在车辆启动或重启的时候被确定，局部路径根据车辆的状态实时更新。例如，如果车辆在障碍物前或在停止线前，车辆状态变为“stop”，那么车辆的速度就被规划为0。如果车辆遇到一个障碍物且状态为“avoid”，那么局部跟踪路径就会被重新规划绕过障碍物，基础节点及他们之间的关系（话题之间的订阅/发布）如下图所示。
 
-![[images/Untitled 3 5.png|Untitled 3 5.png]]
+![[post-images/Untitled 3 5.png|Untitled 3 5.png]]
 
-![[images/Untitled 4 5.png|Untitled 4 5.png]]
+![[post-images/Untitled 4 5.png|Untitled 4 5.png]]

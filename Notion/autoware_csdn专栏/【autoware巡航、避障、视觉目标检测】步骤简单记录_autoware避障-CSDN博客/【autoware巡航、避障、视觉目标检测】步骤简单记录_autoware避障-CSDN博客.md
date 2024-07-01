@@ -37,7 +37,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/123558397
   
 **](https://blog.csdn.net/qq_35635374/category_11523328.html)[**专栏收录该内容**](https://blog.csdn.net/qq_35635374/category_11523328.html)[](https://blog.csdn.net/qq_35635374/category_11523328.html)
 
-![[resize2Cm_fixed2Ch_2242Cw_224]]
+![[post-images/resize2Cm_fixed2Ch_2242Cw_224]]
 
 25 篇文章  
 38 订阅  
@@ -97,7 +97,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/123558397
 
 使用上述数据包，下采样降低数据量，点云一些地面处理，采用DNT算法建立点云地图，并把PCB地图保存下来
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 .
 
@@ -107,19 +107,19 @@ URL: https://blog.csdn.net/qq_35635374/article/details/123558397
 
 实时激光雷达的数据数据与NDT建立的地图进行匹配，注意的是车辆当前停止的位置要和录制建立地图的其实位置重合，要不然匹配不上
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
 
 ## **五、航线录制（waypoint_saver）**
 
 加载建立好的地图，运行NDT定位，录制航线到csv文件中（路径包含速度、位置、姿态） . .
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 2]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 2]]
 
 ## **六、航线加载（waypoint_loader）+pure_persuit跟踪巡航**
 
 航线加载（waypoint_loader）后rviz出现轨迹，选择lane_rule、lane_select的任务规划，再选择a*是否避障，再选择twist指令滤波，最后使用pure_persuit跟踪，查看can总线的数据是否正常（candump any） . .
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 3]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 3]]
 
 ## **七、A*动态**[**路径规划**](https://so.csdn.net/so/search?q=%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92&spm=1001.2101.3001.7020)**（A-star）**
 
@@ -127,15 +127,15 @@ URL: https://blog.csdn.net/qq_35635374/article/details/123558397
 
 后面的步骤和巡航的步骤是一致的
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4]]
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 5]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 5]]
 
 ## **八、yolo v3的目标检测**
 
 勾选上vision_darknet_yolo3，在rviz上选择对应图像的topic，即可出现检测的效果，可以使用候选框的大小表示距离车辆的距离
 
-![[watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 6]]
+![[post-images/watermark2Ctype_d3F5LXplbmhlaQ2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 6]]
 
 ## **九、组合自己想要的功能**
 

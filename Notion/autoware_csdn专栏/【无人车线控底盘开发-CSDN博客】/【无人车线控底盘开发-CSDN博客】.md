@@ -144,7 +144,7 @@ URL: https://blog.csdn.net/qq_35635374/article/details/121180713
 
 控制器局域⽹总线（CAN，Controller Area Network）是⼀种⽤于实时应⽤的串⾏通讯协议总线，它可以使⽤双绞线来传输信号，将⻋身上各个执⾏机构⽐作节点，那么这些节点⼤部分都将连接在CAN总线上，不断的向总线⾥发送消息和从中读取出⾃⼰需要的信息。CAN总线贯穿⻋身，但是⻋身上不⽌有⼀条CAN总线，【防盗标记–盒子君hzj】按照各个模块的功能不同，⼀般把CAN总线分成⼏个速度，⾼速CAN主要负责传输关键消息，如发动机转速，转向⻆，油⻔踏板位置，油压等敏感信息。⽽向⻋⻔，⻋灯等⾮重要的设备会接到低速CAN中 . .
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_192Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_192Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 ### **（2）CAN物理层**
 
@@ -278,13 +278,13 @@ USB-CAN⼀般由USB接⼝，【防盗标记–盒子君hzj】CAN总线接⼝和�
 
 传统的制动系统采⽤的是液压制动，制动系统包括⼏个部分：制动踏板，主油泵，连接管路和制动器四部分组成，当踩下制动踏板时，与踏板连接的推杆会压缩主泵，【防盗标记–盒子君hzj】主泵内部的油压会升⾼直接增加与之连接的油路内部的油压，压⼒增加之后制动钳会夹紧四个轮⼦上⾯的刹⻋碟，通过制动钳上的摩擦⽚和刹⻋碟之间相互摩擦来降低⻋速，由于汽⻋制动需要在制动踏板之上施加很⼤的⼒
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_192Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_192Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
 
 ### **（2）线控制动系统**
 
 线控制动系统是在传统制动的⽅式之上在制动踏板和主泵之间增加了⼀个电⼦液压控制单元(ABS)来实现对制动油压的调节，同时在制动管路中增加了对油压检测和对速度检测的传感器，【防盗标记–盒子君hzj】实现压⼒和速度的闭环控制。 需要注意的是电⼦防抱死系统(ABS)和线控制动系统(EHB)是分开的两个系统，但是⼯作原理类似
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_162Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_162Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 ### **（2） 线控制动系统硬件组成**
 

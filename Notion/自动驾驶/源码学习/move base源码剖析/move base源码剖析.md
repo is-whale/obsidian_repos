@@ -2,7 +2,7 @@
 
 源码地址：[https://github.com/ros-planning/navigation](https://github.com/ros-planning/navigation)
 
-![[images/Untitled 16.png|Untitled 16.png]]
+![[post-images/Untitled 16.png|Untitled 16.png]]
 
 ## **move_base_node.cpp**
 

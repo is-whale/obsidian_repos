@@ -82,7 +82,7 @@ load、ndt（存在累计误差，长时间会产生定位漂移）
 
 ## 二、一个简单的较通用的定位流程
 
-![[cbad99e55ae74a2fa6baf0397fa13234.png]]
+![[post-images/cbad99e55ae74a2fa6baf0397fa13234.png]]
 
 1、车辆启动的时候，GPS/RTK提供一个定位初始位置
 
@@ -118,7 +118,7 @@ Gnss_localizer主要是把GPS的经纬高度信息转换成为xy坐标系，GPS�
 
 ### （3）模块介绍
 
-![[b079b66a8f9d4189859caffe8ab67a53.png]]
+![[post-images/b079b66a8f9d4189859caffe8ab67a53.png]]
 
 （1）Nmea2tfpose这一个节点实际是GPS的一个使用协议的解析功能，用于解析GPS的字符串信息，提取出经纬高、欧拉角，得到/gnss_pose的作用
 
@@ -130,7 +130,7 @@ Gnss_localizer主要是把GPS的经纬高度信息转换成为xy坐标系，GPS�
 
 ### （4）关键函数分析
 
-![[8609431fde9d4792a36dccf8a848447c.png]]
+![[post-images/8609431fde9d4792a36dccf8a848447c.png]]
 
 这个功能包实在my_location.launch的启动文件中进行调用的
 
@@ -144,7 +144,7 @@ Gnss_localizer主要是把GPS的经纬高度信息转换成为xy坐标系，GPS�
 
 Ndt_cpu是NDT算法的实现，Ndt_cpu的算法难度比较大，需要先理解NDT论文和算法，然后对照论文论文理解代码的实现
 
-![[483622b2a28c4895888d74f8c60bac45.png]]
+![[post-images/483622b2a28c4895888d74f8c60bac45.png]]
 
 .
 
@@ -162,7 +162,7 @@ Ndt_cpu是NDT算法的实现，Ndt_cpu的算法难度比较大，需要先理解
 
 ### （3）关键的函数解析
 
-![[f30aabad24924db286c49e6e986f47d9.png]]
+![[post-images/f30aabad24924db286c49e6e986f47d9.png]]
 
 ### 3.【NDT_matching定位集成功能包】
 
@@ -170,7 +170,7 @@ Ndt_cpu是NDT算法的实现，Ndt_cpu的算法难度比较大，需要先理解
 
 Ndt_matching是定位的主线程，在室内场景下，点云地图pcd不仅仅是用于绘制vector_map矢量地图，还用以点云特征匹配来定位
 
-![[68bfd1de0e6b42968cdeec05f9b0a375.png]]
+![[post-images/68bfd1de0e6b42968cdeec05f9b0a375.png]]
 
 模块流程步骤：
 
@@ -190,7 +190,7 @@ Ndt_matching是定位的主线程，在室内场景下，点云地图pcd不仅�
 
 ### （2）关键的函数分析
 
-![[2431cd18cef24021b42d018df56f96c7.png]]
+![[post-images/2431cd18cef24021b42d018df56f96c7.png]]
 
 因为组合定位是用到各个传感器的定位信息，因此当ndt_matching定位发生偏移甚至是丢失时的时候，GPS也会进行纠正
 
@@ -202,7 +202,7 @@ Ndt_matching是定位的主线程，在室内场景下，点云地图pcd不仅�
 
 启动地图，定位的对应节点和rosbag
 
-![[ae1e5a24852243679ceaa887d0357246.png]]
+![[post-images/ae1e5a24852243679ceaa887d0357246.png]]
 
 ---
 

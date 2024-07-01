@@ -215,7 +215,7 @@ Sagnac效应由法国物理学家 Sagnac 于 1913 年发现，其原理是干涉
   
 每秒重复数百万次此过程，将创建精确的实时3D环境地图
 
-![[b45bcc9bf65b4ebc91291763a7a11fb0.png]]
+![[post-images/b45bcc9bf65b4ebc91291763a7a11fb0.png]]
 
 **（3）Velodyne 16线三维激光雷达介绍** [https://blog.csdn.net/Travis_X/article/details/104109095](https://blog.csdn.net/Travis_X/article/details/104109095) . .
 
@@ -296,7 +296,7 @@ CPU处理：直接连接pc
   
 .
 
-![[60c8a13ed7ab4e618915bb2fcbb42bfd.png]]
+![[post-images/60c8a13ed7ab4e618915bb2fcbb42bfd.png]]
 
 ### **（2）常用相机观测模型**
 
@@ -318,25 +318,25 @@ CPU处理：直接连接pc
   
 投影顺序：世界——相机——归一化平面——像素 . . **（5）针孔相机畸变类型及模型** （1）畸变类型 1）径向畸变 2）切向畸变 （2）畸变数学模型 畸变可以用归一化坐标的变换来描述 1）径向畸变多项式描述 2）切向畸变多项式描述 3）径向+切向畸变多项式描述 实际当中可灵活保留各项系数 . . **（6）针孔相机观测总步骤**
 
-![[images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4.|watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4.]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4.|watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4.]]
 
-![[9fb0479d124249db9ef4a801fe061607.png]]
+![[post-images/9fb0479d124249db9ef4a801fe061607.png]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 1]]
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 2]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 2]]
 
-![[281e3a3e0be648fea8863e80dad386bd.png]]
+![[post-images/281e3a3e0be648fea8863e80dad386bd.png]]
 
-![[013afc7cbdff484fb5ef909548cd6c4f.png]]
+![[post-images/013afc7cbdff484fb5ef909548cd6c4f.png]]
 
-![[903ef2c8cc8148cebef6e0aa3c1c3992.png]]
+![[post-images/903ef2c8cc8148cebef6e0aa3c1c3992.png]]
 
-![[6303b08991f84c7088de7e9d29319884.png]]
+![[post-images/6303b08991f84c7088de7e9d29319884.png]]
 
-![[6849e316d4404668be9e9673e6609f2d.png]]
+![[post-images/6849e316d4404668be9e9673e6609f2d.png]]
 
-![[9639d64b641547688db8fecf25f2c2ad.png]]
+![[post-images/9639d64b641547688db8fecf25f2c2ad.png]]
 
 ### **2）双目相机观测模型**
 
@@ -348,9 +348,9 @@ s示意图 基线:左右相机中心距离称为基线
   
 左右像素的几何关系
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 3]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 3]]
 
-![[54492370cdb64330b51b8658914446c2.png]]
+![[post-images/54492370cdb64330b51b8658914446c2.png]]
 
 ### **3）RGB-D相机观测模型**
 
@@ -362,9 +362,9 @@ s示意图 基线:左右相机中心距离称为基线
   
 （2）结构光原理
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_132Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_132Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
-![[8e412c7444724ab9947833ab043db48f.png]]
+![[post-images/8e412c7444724ab9947833ab043db48f.png]]
 
 ### **（3）视觉传感器的优缺点**
 
@@ -424,11 +424,11 @@ s示意图 基线:左右相机中心距离称为基线
 
 ## **二、传感器选型**
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4]]
 
 ## **三、传感器的安装**
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 5]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 5]]
 
 ## **四、传感器的一般标定类型**
 

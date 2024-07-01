@@ -101,13 +101,13 @@ ADAS矢量语义地图直接读取.csv文件 根据高精度点云地图，图�
 
 在小车等移动载体上采集得到激光雷达高精度点云数据、甚至是相机数据、GPS/IMU航迹里程计数据 . .
 
-![[watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
+![[post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16]]
 
 ### **（2）一体化高精度地图SLAM的解决方案（适合公司运维）**
 
 . .
 
-![[154121c935264eb0bd65bbd22524338c.png]]
+![[post-images/154121c935264eb0bd65bbd22524338c.png]]
 
 **文章知识点与官方知识档案匹配，可进一步学习相关知识**
 

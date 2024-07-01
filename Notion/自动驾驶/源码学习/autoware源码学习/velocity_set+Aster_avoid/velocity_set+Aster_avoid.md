@@ -22,7 +22,7 @@
 
 obstacleDetection中包含pointsDetection()这和函数，而pointsDetection()又包含了detectStopObstacle() 和 detectDecelerateObstacle()两个重要的函数。其解析如下所示。
 
-![[images/Untitled 31.png|Untitled 31.png]]
+![[post-images/Untitled 31.png|Untitled 31.png]]
 
 首先是decelerate obstacle，从车辆位置开始，向后遍历一定数量的路径点(蓝色点)，对每个路径点，遍历所有的点云，如果该路径点decelerate_range半径内不存在点云，则切换到下一个路径点，再次遍历所有点云；
 

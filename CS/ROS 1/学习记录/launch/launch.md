@@ -1,1 +1,1 @@
-![[images/Untitled 27.png|Untitled 27.png]]
+![[post-images/Untitled 27.png|Untitled 27.png]]
