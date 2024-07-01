@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "纯虚函数",
+      "path": "Notion/C++/笔记/纯虚函数.md"
+    },
+    {
+      "basename": "成员初始化列表",
+      "path": "Notion/C++/笔记/成员初始化列表.md"
+    },
+    {
+      "basename": "this关键字",
+      "path": "Notion/C++/笔记/关键字/this关键字.md"
+    },
+    {
+      "basename": "explicit",
+      "path": "Notion/C++/笔记/关键字/explicit.md"
+    },
+    {
       "basename": "auto",
       "path": "Notion/C++/笔记/关键字/auto.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Pasted image 20240527113158",
       "path": "post-images/Pasted image 20240527113158.png"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "post-images/Untitled 1.png"
-    },
-    {
-      "basename": "Untitled",
-      "path": "post-images/Untitled.png"
-    },
-    {
-      "basename": "Screenshot_20230825_123209",
-      "path": "post-images/Screenshot_20230825_123209.jpg"
-    },
-    {
-      "basename": "Untitled 1 2",
-      "path": "post-images/Untitled 1 2.png"
     }
   ],
   "omittedPaths": [],

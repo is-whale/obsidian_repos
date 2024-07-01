@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/C++/笔记/关键字/auto.md",
+                "file": "Notion/C++/笔记/纯虚函数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/关键字/auto.md",
+                "file": "Notion/C++/笔记/纯虚函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/关键字/auto.md",
+                "file": "Notion/C++/笔记/纯虚函数.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/C++/笔记/关键字/auto.md"
+                "file": "Notion/C++/笔记/纯虚函数.md"
               }
             }
           }
@@ -222,8 +222,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6e206645d25a752",
+  "active": "b4df83c5a09fe11d",
   "lastOpenFiles": [
+    "Notion/C++/笔记/成员初始化列表.md",
+    "Notion/C++/笔记/关键字/this关键字.md",
+    "Notion/C++/笔记/关键字/explicit.md",
+    "Notion/C++/笔记/关键字/auto.md",
     "post-images/sync.ffs_db",
     "post-images/STM32/串口配置",
     "post-images/STM32/Utilties.png",
@@ -241,7 +245,6 @@
     "images/sync.ffs_lock",
     "post-images/Pasted image 20240701095024.png",
     "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
-    "Notion/C++/笔记/关键字/auto.md",
     "Notion/C++/笔记/对象生存期.md",
     "Notion/自动驾驶/Planner/planner.md",
     "Notion/自动驾驶/Planner/未命名.md",
@@ -250,7 +253,6 @@
     "Notion/自动驾驶/Planner/理论资料.md",
     "Notion/自动驾驶/Planner/Apollo",
     "Notion/自动驾驶/Planner/Lattice planner",
-    "Notion/自动驾驶/Planner",
     "Notion/自动驾驶/未命名.md",
     "Notion/Read Plans/C Primer Plus.md",
     "Notion/Read Plans/C++ Primer.md",
@@ -266,11 +268,9 @@
     "Notion/自动驾驶/工作内容/技术思路/RT/RT.md",
     "Notion/自动驾驶/工作内容/技术思路/RT/http---blog.iotwrt.com-os-2019-03-21-realtime-.md",
     "Autonomous driving/github/github项目.md",
-    "Autonomous driving/planner/path planner.md",
     "post-images/Untitled 25.png",
     "post-images/Untitled 33.png",
     "未命名.canvas",
-    "post-images/watermark2Ctype_ZHJvaWRzYW5zZmFsbGJhY2s2Cshadow_502Ctext_Q1NETiBA55uS5a2Q5ZCbfg3D3D2Csize_202Ccolor_FFFFFF2Ct_702Cg_se2Cx_16 4..md",
     "Notion/自动驾驶/未命名.canvas",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
