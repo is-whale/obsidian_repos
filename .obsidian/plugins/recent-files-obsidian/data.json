@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "auto",
+      "path": "Notion/C++/笔记/关键字/auto.md"
+    },
+    {
       "basename": "planner梳理",
       "path": "Notion/自动驾驶/Planner/Apollo/planner梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1 2",
       "path": "images/Untitled 1 2.png"
-    },
-    {
-      "basename": "Untitled 1 4",
-      "path": "images/Untitled 1 4.png"
     }
   ],
   "omittedPaths": [],
