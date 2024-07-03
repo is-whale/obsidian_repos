@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "lambda",
+      "path": "Notion/C++/笔记/关键字/lambda.md"
+    },
+    {
       "basename": "函数指针",
       "path": "Notion/C++/笔记/函数指针.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ec1c7b27c6be4365815b0628e83dfb72",
       "path": "post-images/ec1c7b27c6be4365815b0628e83dfb72.png"
-    },
-    {
-      "basename": "fc99e0431f484346a149fea391556d13",
-      "path": "post-images/fc99e0431f484346a149fea391556d13.png"
     }
   ],
   "omittedPaths": [],
