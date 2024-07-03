@@ -1,7 +1,7 @@
 {
   "newFileLocation": "current",
-  "newLinkFormat": "absolute",
-  "attachmentFolderPath": "images",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./函数指针.md_Attachments",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "pdfExportSettings": {
