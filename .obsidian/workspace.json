@@ -65,15 +65,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/C++/笔记/关键字/lambda.md",
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cce88d275a2e902",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/C++/笔记/关键字/lambda.md",
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/C++/笔记/关键字/lambda.md",
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/C++/笔记/关键字/lambda.md"
+                "file": "Notion/自动驾驶/Planner/Apollo/planner梳理.md"
               }
             }
           }
@@ -210,13 +220,14 @@
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false
     }
   },
-  "active": "b4df83c5a09fe11d",
+  "active": "5cce88d275a2e902",
   "lastOpenFiles": [
+    "Notion/C++/笔记/关键字/lambda.md",
+    "未命名",
     "Notion/C++/笔记/关键字/lambda.md_Attachments/lambda-20240703105506261.png",
     "Notion/C++/笔记/关键字/lambda.md_Attachments/lambda-20240703105002208.png",
     "Notion/C++/笔记/关键字/lambda.md_Attachments",
     "Notion/C++/笔记/函数指针.md",
-    "Notion/C++/笔记/关键字/lambda.md",
     "CS/ROS 1/Hunter2.0/车体参数/导航配置参数.md",
     "Notion/C++/笔记/纯虚函数.md",
     "Notion/C++/笔记/函数指针.md_Attachments/函数指针-20240703103835873.png",
@@ -245,11 +256,9 @@
     "post-images/soft/微力同步",
     "post-images/hello-gridea.jpg",
     "post-images/1643459679076.png",
-    "post-images/1643289121232.png",
     "post-images/STM32",
     "post-images/soft",
     "post-images/Grigea",
-    "images/sync.ffs_lock",
     "Notion/自动驾驶/Planner/Apollo/planner梳理.md",
     "Notion/自动驾驶/Planner/未命名.md",
     "Notion/自动驾驶/Planner/理论资料.md",
