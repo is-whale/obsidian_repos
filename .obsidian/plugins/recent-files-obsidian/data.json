@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PNC学习路径",
+      "path": "Notion/自动驾驶/Planner/PNC学习路径.md"
+    },
+    {
       "basename": "理论资料",
       "path": "Notion/自动驾驶/Planner/理论资料.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "blog",
       "path": "Notion/自动驾驶/Planner/blog.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Notion/自动驾驶/Planner/未命名.md"
     },
     {
       "basename": "lambda",
