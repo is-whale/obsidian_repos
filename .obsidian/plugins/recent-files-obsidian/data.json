@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "C++路线",
+      "path": "Notion/C++/学习路线/C++路线.md"
+    },
+    {
+      "basename": "P16 non-explicit-one-argument ctor",
+      "path": "Notion/C++/侯捷笔记/C++面向对象高级编程/P16 non-explicit-one-argument ctor/P16 non-explicit-one-argument ctor.md"
+    },
+    {
       "basename": "readme",
       "path": "readme.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "技术思路",
       "path": "Notion/自动驾驶/工作内容/技术思路/技术思路.md"
-    },
-    {
-      "basename": "github项目",
-      "path": "Autonomous driving/github/github项目.md"
-    },
-    {
-      "basename": "path planner",
-      "path": "Autonomous driving/planner/path planner.md"
     }
   ],
   "omittedPaths": [],
