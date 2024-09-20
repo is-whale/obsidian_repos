@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "Pasted image 20240703103308",
+      "path": "post-images/Pasted image 20240703103308.png"
+    },
+    {
+      "basename": "Pasted image 20240703102855",
+      "path": "post-images/Pasted image 20240703102855.png"
+    },
+    {
       "basename": "service",
       "path": "Notion/自动驾驶/Projects/service.md"
+    },
+    {
+      "basename": "planner",
+      "path": "Notion/自动驾驶/Planner/planner.md"
+    },
+    {
+      "basename": "电影",
+      "path": "Notion/笔记/电影.md"
     },
     {
       "basename": "老王笔记",
@@ -109,10 +129,6 @@
       "path": "Notion/自动驾驶/Planner/Apollo/planner梳理.md"
     },
     {
-      "basename": "planner",
-      "path": "Notion/自动驾驶/Planner/planner.md"
-    },
-    {
       "basename": "lambda",
       "path": "Notion/C++/笔记/关键字/lambda.md"
     },
@@ -169,10 +185,6 @@
       "path": "Notion/Read Plans/C++ Primer.md"
     },
     {
-      "basename": "电影",
-      "path": "Notion/笔记/电影.md"
-    },
-    {
       "basename": "docker部署",
       "path": "Notion/自动驾驶/工作内容/docker部署.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "path planner",
       "path": "Autonomous driving/planner/path planner.md"
-    },
-    {
-      "basename": "Untitled 25",
-      "path": "post-images/Untitled 25.png"
-    },
-    {
-      "basename": "Untitled 33",
-      "path": "post-images/Untitled 33.png"
     }
   ],
   "omittedPaths": [],

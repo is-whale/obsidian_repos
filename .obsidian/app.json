@@ -1,7 +1,7 @@
 {
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./service.md_Attachments",
+  "attachmentFolderPath": "./readme.md_Attachments",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "pdfExportSettings": {
