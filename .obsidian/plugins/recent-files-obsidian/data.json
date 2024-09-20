@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "write/未命名.canvas"
+    },
+    {
+      "basename": "配置",
+      "path": "write/obsidian/配置.md"
+    },
+    {
       "basename": "C++路线",
       "path": "Notion/C++/学习路线/C++路线.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "C++ Primer",
       "path": "Notion/Read Plans/C++ Primer.md"
-    },
-    {
-      "basename": "docker部署",
-      "path": "Notion/自动驾驶/工作内容/docker部署.md"
-    },
-    {
-      "basename": "技术思路",
-      "path": "Notion/自动驾驶/工作内容/技术思路/技术思路.md"
     }
   ],
   "omittedPaths": [],
