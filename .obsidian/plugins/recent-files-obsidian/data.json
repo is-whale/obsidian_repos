@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "write/未命名.canvas"
+      "basename": "cmake基础",
+      "path": "Notion/cmake/cmake基础.md"
     },
     {
       "basename": "配置",
       "path": "write/obsidian/配置.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "write/未命名.canvas"
     },
     {
       "basename": "C++路线",
@@ -195,10 +199,6 @@
     {
       "basename": "C Primer Plus",
       "path": "Notion/Read Plans/C Primer Plus.md"
-    },
-    {
-      "basename": "C++ Primer",
-      "path": "Notion/Read Plans/C++ Primer.md"
     }
   ],
   "omittedPaths": [],

@@ -11,8 +11,13 @@
             "id": "cc830c1e000b993e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion/cmake/cmake基础.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion/cmake/cmake基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion/cmake/cmake基础.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion/cmake/cmake基础.md"
+              }
             }
           }
         ],
@@ -150,8 +159,10 @@
   },
   "active": "cc830c1e000b993e",
   "lastOpenFiles": [
-    "write/未命名.canvas",
     "write/obsidian/配置.md",
+    "Notion/cmake/cmake基础.md",
+    "Notion/cmake",
+    "write/未命名.canvas",
     "Notion/C++/学习路线/C++路线.md",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P16 non-explicit-one-argument ctor/P16 non-explicit-one-argument ctor.md",
     "readme.md",
@@ -196,7 +207,6 @@
     "Notion/C++/笔记/函数指针.md_Attachments",
     "post-images/sync.ffs_db",
     "post-images/STM32/串口配置",
-    "post-images/STM32/AT指令响应",
     "Notion/自动驾驶/未命名.canvas",
     "CS/docker/未命名.canvas",
     "未命名 1.canvas",
