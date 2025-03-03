@@ -11,15 +11,8 @@
             "id": "cc830c1e000b993e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "write/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0.5
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "write/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "write/未命名.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "write/未命名.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,8 +150,8 @@
   },
   "active": "cc830c1e000b993e",
   "lastOpenFiles": [
-    "write/obsidian/配置.md",
     "write/未命名.canvas",
+    "write/obsidian/配置.md",
     "Notion/C++/学习路线/C++路线.md",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P16 non-explicit-one-argument ctor/P16 non-explicit-one-argument ctor.md",
     "readme.md",
@@ -200,7 +189,6 @@
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P9面向对象的三大函数-拷贝赋值，拷贝构造，析构.md",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/P9面向对象的三大函数-拷贝赋值，拷贝构造，析构.md_Attachments",
     "Notion/C++/侯捷笔记/C++面向对象高级编程/C++面向对象高级编程.md",
-    "Notion/C++/笔记/构造函数与析构函数.md",
     "Notion/C++/笔记/多维数组.md_Attachments",
     "Notion/自动驾驶/Planner/老王笔记.md_Attachments",
     "未命名",
