@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "cmake基础",
+      "path": "Notion/cmake/cmake基础.md"
+    },
+    {
       "basename": "2025-03-18",
       "path": "2025-03-18.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "github工具",
       "path": "Notion/tool/github工具.md"
-    },
-    {
-      "basename": "cmake基础",
-      "path": "Notion/cmake/cmake基础.md"
     },
     {
       "basename": "配置",
