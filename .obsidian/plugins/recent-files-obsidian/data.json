@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-18",
+      "path": "2025-03-18.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "达芬奇",
+      "path": "Notion/tool/达芬奇.md"
+    },
+    {
+      "basename": "github工具",
+      "path": "Notion/tool/github工具.md"
+    },
+    {
       "basename": "cmake基础",
       "path": "Notion/cmake/cmake基础.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "成员初始化列表",
       "path": "Notion/C++/笔记/成员初始化列表.md"
-    },
-    {
-      "basename": "this关键字",
-      "path": "Notion/C++/笔记/关键字/this关键字.md"
-    },
-    {
-      "basename": "explicit",
-      "path": "Notion/C++/笔记/关键字/explicit.md"
-    },
-    {
-      "basename": "auto",
-      "path": "Notion/C++/笔记/关键字/auto.md"
-    },
-    {
-      "basename": "C Primer Plus",
-      "path": "Notion/Read Plans/C Primer Plus.md"
     }
   ],
   "omittedPaths": [],
